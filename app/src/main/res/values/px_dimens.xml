@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<dimen name="px_50" >25dp</dimen>
+<dimen name="px_96" >48dp</dimen>
+<dimen name="px_180" >90dp</dimen>
+<dimen name="pager_item_width">320dp</dimen>
+<dimen name="_px_24" >-12dp</dimen>
+
+</resources>

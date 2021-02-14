@@ -1,0 +1,1307 @@
+--------- beginning of main
+11-19 10:18:06.959  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:06.959  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:06.959  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:06.959  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:07.064 12282 12282 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+11-19 10:18:07.081 12282 12282 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=48
+11-19 10:18:07.478  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:07.478  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:07.478  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:07.478  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:07.996  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:07.996  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:07.996  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:07.996  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:08.514  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:08.515  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:08.515  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:08.515  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:08.530 20340 20372 I USBService: send udp to check mobileagent state.
+11-19 10:18:08.535 20340 20376 I ===Mrcp===: sending cmd:276
+11-19 10:18:08.536 20340 20506 I USBService: command is : [277] 
+11-19 10:18:08.536 20340 20506 I USBService: res:-131070 res2:2 opt:-2
+11-19 10:18:08.536 20340 20506 I USBService: 	 mobileagent state:-2. 
+11-19 10:18:08.536 20340 20372 I USBService: get mobileagent state 1 and current mobileagent state 1 and usb state of connection true
+11-19 10:18:08.628 20340 20369 I ===DaemonService===: ############## Rotation : 0
+11-19 10:18:08.628 20340 20369 I ===DaemonService===: ScreenOrientationThread:0 screentOrientation:0
+11-19 10:18:08.629 20340 20371 I ===APKProtocolTransmit===: Ready send su-cmd:275
+11-19 10:18:08.629 20340 20371 I ===APKProtocolTransmit===: Start send su-cmd:275 length[14]
+11-19 10:18:08.629 20340 20371 I ===APKProtocolTransmit===: Will write content:the C socket has not been connected,so dicard the send command:[275]
+11-19 10:18:08.630 20340 20371 I ===APKProtocolTransmit===: End send sb-cmd:275
+11-19 10:18:09.032  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:09.032  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:09.032  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:09.032  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:09.357  1497  2649 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_NETWORK_STATE ; uid = 10022
+11-19 10:18:09.359  1497 23903 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10022
+11-19 10:18:09.360  2858  3019 D NLPLOC  : wifi connect scan time < 360S
+11-19 10:18:09.373  1497  4530 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:09.374  1497  2762 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:09.375  1497  2771 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:09.375  1497  2771 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:09.378  1497  2589 I PackageManager:  checkUidPermission permName = android.permission.WAKE_LOCK ; uid = 1001
+--------- beginning of system
+11-19 10:18:09.379  1497  2589 D PowerManagerService: acquireWakeLockInternal: lock=45800193, flags=0x1, tag="RILJ", ws=null, uid=1001, pid=2189
+11-19 10:18:09.390  1497 19282 I PackageManager:  checkUidPermission permName = android.permission.WAKE_LOCK ; uid = 1001
+11-19 10:18:09.397  1497  2655 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:09.398  1497 30584 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:09.399  1497  2619 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:09.400  1497  2619 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:09.405  2858  3019 I NLPLOC  : cell sim2 == null
+11-19 10:18:09.405  2858  3019 I NLPLOC  : all cell is no valid
+11-19 10:18:09.406  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10022
+11-19 10:18:09.406  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.PEERS_MAC_ADDRESS ; uid = 10022
+11-19 10:18:09.407  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS_FULL ; uid = 10022
+11-19 10:18:09.407  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:09.412  2858  3019 D NLPLOC  : start network locating ...false  false
+11-19 10:18:09.413  2858  3019 D NLP_STA : network locating ...false  false
+11-19 10:18:09.423  1497  2765 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:09.424  1497 27286 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:09.425  1497 21506 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:09.425  1497 21506 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:09.432  1497  2656 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:09.433  1497  2352 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:09.434  1497 17015 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:09.434  1497 17015 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:09.438  2858  3019 I NLPLOC  : cell sim2 == null
+11-19 10:18:09.439  2858  3019 I NLPLOC  : all cell is no valid
+11-19 10:18:09.441  1497  1973 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_NETWORK_STATE ; uid = 10022
+11-19 10:18:09.442  1497  2769 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10022
+11-19 10:18:09.444  1497  2769 I PackageManager:  checkUidPermission permName = android.permission.LOCAL_MAC_ADDRESS ; uid = 10022
+11-19 10:18:09.448  1497  2353 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:09.449  1497 21796 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:09.449  1497  2203 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:09.450  1497  2203 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:09.462  2858 24644 D NLPLOC  : upDataStr = :null
+11-19 10:18:09.550  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:09.551  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:09.551  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:09.551  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:09.551  2858 24644 W NLPLOC  : https NetworkCommunicationException!
+11-19 10:18:09.573  1497  5623 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_NETWORK_STATE ; uid = 10022
+11-19 10:18:09.580  2858  2858 E NLP     : Location result:[location failed by Baidu], reason:[location type =67]
+11-19 10:18:09.580  2858  2858 E NLP     : NetworkLocation Exception: offlinelocationfail exception
+11-19 10:18:09.925  2011  2011 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-42,lastModified=11-19 10:18:02,ssid="gyt"
+11-19 10:18:09.925  2011  2011 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-42,lastModified=11-19 10:18:02,ssid="gyt"
+11-19 10:18:09.925  2011  2011 D WifiSignalController: notifyListeners visibleWhenEnabled=false wifiVisible=true
+11-19 10:18:09.925  2011  2011 D HyteraStatusBarWifiView: setWifiIndicators mWifiVisible=true
+11-19 10:18:09.925  2011  2011 D wifiview: HyteraStatusBarWifiView apply() NrmUtils.hideWlanMenu()=false
+11-19 10:18:09.926  1497  2204 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:09.929  1497 13361 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:09.930  1497  2649 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:09.930  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:09.934  1497  4530 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:09.935  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:09.935  1497  2762 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:09.936  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:09.936  2011  2011 D PhoneStatusBar: ~~~~~~~~~~setIcon slot=wifi
+11-19 10:18:09.936  2011  2011 D StatusBarIconController: applyIconTint
+11-19 10:18:09.937  2011  2011 D SignalClusterView: setIconTint changed=false
+11-19 10:18:10.068  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:10.068  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:10.068  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:10.068  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:10.089 12282 12282 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+11-19 10:18:10.108 12282 12282 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=48
+11-19 10:18:10.114  1497  1844 D InputDispatcher:   Pointer 0: id=0, toolType=1, x=155.675674, y=235.705368, action=0x0
+11-19 10:18:10.115  2011  2011 D PhoneStatusBar: getCalloutClockState() mCalloutLockState=false
+11-19 10:18:10.116  1497 19282 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:10.117  2011  2011 D StatusBarWindowView: dispatchTouchEvent event =ACTION_OUTSIDE isNotificationPanelViewLocked=false getCalloutClockState=false getTaskTopAPP=false isOccluded=false mService.getBarState()=0 unLockSuccess=false
+11-19 10:18:10.117  1497  2655 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:10.118  2011  2011 D PhoneStatusBar: getCalloutClockState() mCalloutLockState=false
+11-19 10:18:10.119  2011  2011 D StatusBarWindowView: dispatchTouchEvent StatusBarState.SHADE--false
+11-19 10:18:10.119  2011  2011 D PhoneStatusBar: getCalloutClockState() mCalloutLockState=false
+11-19 10:18:10.119  2011  2011 D PhoneStatusBar: mStatusBarWindow  onTouch  ,mExpandedVisible:false
+11-19 10:18:10.119  2011  2011 D StatusBarWindowView: onTouchEvent
+11-19 10:18:10.119  2011  2011 D StatusBarWindowView: onTouchEvent handled=false
+11-19 10:18:10.120  2011  2011 D StatusBarWindowView: onTouchEvent
+11-19 10:18:10.120  2011  2011 D StatusBarWindowView: onTouchEvent handled=false
+11-19 10:18:10.124 24604 24604 V BoostFramework: mAcquireFunc method = public int com.qualcomm.qti.Performance.perfLockAcquire(int,int[])
+11-19 10:18:10.125 24604 24604 V BoostFramework: mReleaseFunc method = public int com.qualcomm.qti.Performance.perfLockRelease()
+11-19 10:18:10.125 24604 24604 V BoostFramework: mAcquireTouchFunc method = public int com.qualcomm.qti.Performance.perfLockAcquireTouch(android.view.MotionEvent,android.util.DisplayMetrics,int,int[])
+11-19 10:18:10.126 24604 24604 V BoostFramework: mIOPStart method = public int com.qualcomm.qti.Performance.perfIOPrefetchStart(int,java.lang.String)
+11-19 10:18:10.126 24604 24604 V BoostFramework: mIOPStop method = public int com.qualcomm.qti.Performance.perfIOPrefetchStop()
+11-19 10:18:10.133 24604 24604 V BoostFramework: BoostFramework() : mPerf = com.qualcomm.qti.Performance@e3dc7ff
+11-19 10:18:10.189  1497  1844 D InputDispatcher:   Pointer 0: id=0, toolType=1, x=155.675674, y=235.705368, action=0x1
+11-19 10:18:10.197  1497  2619 I ActivityManager: START u0 {cmp=com.zzw.live/.RecodeActivity} from uid 10106 on display 0
+11-19 10:18:10.197  1497  2619 I PackageManager:  checkUidPermission permName = android.permission.START_ANY_ACTIVITY ; uid = 10106
+11-19 10:18:10.198  1497  2619 I ActivityManager: isRing ==false
+11-19 10:18:10.199  1497  2619 I ActivityManager: in startActivityLocked---go on start there is not ringing incoming call or not HomeActivity. before abort==false
+11-19 10:18:10.206  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.207  1497  2619 D ActivityTrigger: ActivityTrigger activityPauseTrigger 
+11-19 10:18:10.208  1497  2619 D PowerManagerService: acquireWakeLockInternal: lock=19165590, flags=0x1, tag="*launch*", ws=WorkSource{10106}, uid=1000, pid=1497
+11-19 10:18:10.211  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.244 24604 24604 V Activity: onPause com.zzw.live.MainActivity@4c1f0d getComponentName()=ComponentInfo{com.zzw.live/com.zzw.live.MainActivity}
+11-19 10:18:10.277 24604 24604 V Activity: onCreate com.zzw.live.RecodeActivity@b0e51b: null
+11-19 10:18:10.354  1497 17015 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:10.355  1497  1973 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 10035
+11-19 10:18:10.355  1497  1973 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:10.356  1497  2769 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:10.357  1497  2353 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS_FULL ; uid = 10035
+11-19 10:18:10.357  1497  2353 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:10.357  1497  2353 I PackageManager:  checkUidPermission permName = android.permission.GET_DETAILED_TASKS ; uid = 10035
+11-19 10:18:10.357  1497  2353 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.zzw.live  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.gallery3d  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.settings  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.live.greatness  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.documentsui  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.wy.mptt  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.sigma_rt.totalcontrol  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.miyi.ktuwr  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.calendar  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.great.sweetcamera  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytalkpro.ocean  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.contacts  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.tips  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.google.grafika  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.appstore  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.settings  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.qualcomm.qti.sensors.qsensortest  false
+11-19 10:18:10.359  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.networkpriority  false
+11-19 10:18:10.360  1497 21796 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 10035
+11-19 10:18:10.360  1497 21796 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:10.374  1497 19281 I PackageManager:  checkUidPermission permName = android.permission.WRITE_SECURE_SETTINGS ; uid = 10035
+11-19 10:18:10.393 24604 24604 V Activity: onStart com.zzw.live.RecodeActivity@b0e51b
+11-19 10:18:10.395 24604 24604 V Activity: onResume com.zzw.live.RecodeActivity@b0e51b
+11-19 10:18:10.411  1497  2589 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10106
+11-19 10:18:10.414  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.414  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.420  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.430  1497  2619 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10106
+11-19 10:18:10.434  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.440  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.443  1497 27286 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10106
+11-19 10:18:10.446  1497 21506 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10106
+11-19 10:18:10.447  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.448  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.467  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.472  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.479  1497  1622 I ActivityManager: Displayed com.zzw.live/.RecodeActivity: +233ms (total +8m36s934ms)
+11-19 10:18:10.482  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.487 24604 24631 D OpenGLRenderer: endAllActiveAnimators on 0x7f8c583000 (RippleDrawable) with handle 0x7f8c57adc0
+11-19 10:18:10.489  1497  2203 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10106
+11-19 10:18:10.490  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.496  1497  2038 V HyteraInterfaceService: sqlite camera status: true
+11-19 10:18:10.498  7034  7107 I CameraService: CameraService::connect call (PID -1 "com.zzw.live", camera ID 0) for HAL version default and Camera API version 1
+11-19 10:18:10.498  1497  1529 I PackageManager:  checkUidPermission permName = android.permission.CAMERA ; uid = 10106
+11-19 10:18:10.508   796  1026 I FFmpegExtractor: android-source:0xec04d200
+11-19 10:18:10.510   796  1026 I FFMPEG  : Input #0, ogg, from 'android-source:0xec04d200':
+11-19 10:18:10.510   796  1026 I FFMPEG  :   Duration: N/A, bitrate: N/A
+11-19 10:18:10.510   796  1026 I FFMPEG  :     Stream #0:0: Audio: vorbis, 48000 Hz, 1 channels, 48 kb/s
+11-19 10:18:10.510   796  1026 I FFMPEG  :     Metadata:
+11-19 10:18:10.510   796  1026 I FFMPEG  :       TITLE           : Camera Shutter
+11-19 10:18:10.510   796  1026 I FFMPEG  :       ARTIST          : (c) 2012 Android Open Source Project
+11-19 10:18:10.510   796  1026 D FFmpegExtractor: FFmpegExtrator, url: android-source:0xec04d200, format_name: ogg, format_long_name: Ogg
+11-19 10:18:10.510   796  1026 I FFmpegExtractor: adjust mime(application/ogg -> audio/vorbis)
+11-19 10:18:10.510   796  1026 D FFmpegExtractor: suppoted codec(vorbis) by official Stagefright
+11-19 10:18:10.511   796  1026 D FFmpegExtractor: ffmpeg detected media content as 'audio/vorbis' with confidence 0.08
+11-19 10:18:10.511   796  1026 D FFmpegExtractor: unsupported mime: application/ogg
+11-19 10:18:10.511   796  1026 I ExtendedExtractor: QTIParser is prefered .. flags 2
+11-19 10:18:10.512   796  1026 D MMParserExtractor: setExtraFlags called with flags 2 for paser instance edd0c1e0
+11-19 10:18:10.512   796  1026 D MMParserExtractor: using bigger parser buffers
+11-19 10:18:10.512   796  1026 I ExtendedExtractor: ExtendedExtractor::create 0xedd0c1e0
+11-19 10:18:10.515   797 24648 D NuPlayerDriver: notifyListener_l(0xe704eea0), (1, 0, 0), loop setting(0, 0)
+11-19 10:18:10.526   796  7411 I FFmpegExtractor: android-source:0xec04c800
+11-19 10:18:10.528   796  7411 I FFMPEG  : Input #0, ogg, from 'android-source:0xec04c800':
+11-19 10:18:10.528   796  7411 I FFMPEG  :   Duration: N/A, bitrate: N/A
+11-19 10:18:10.528   796  7411 I FFMPEG  :     Stream #0:0: Audio: vorbis, 48000 Hz, 1 channels, 48 kb/s
+11-19 10:18:10.528   796  7411 I FFMPEG  :     Metadata:
+11-19 10:18:10.528   796  7411 I FFMPEG  :       TITLE           : Video Record
+11-19 10:18:10.528   796  7411 I FFMPEG  :       ARTIST          : (c) 2012 Android Open Source Project
+11-19 10:18:10.528   796  7411 D FFmpegExtractor: FFmpegExtrator, url: android-source:0xec04c800, format_name: ogg, format_long_name: Ogg
+11-19 10:18:10.529   796  7411 I FFmpegExtractor: adjust mime(application/ogg -> audio/vorbis)
+11-19 10:18:10.529   796  7411 D FFmpegExtractor: suppoted codec(vorbis) by official Stagefright
+11-19 10:18:10.529   796  7411 D FFmpegExtractor: ffmpeg detected media content as 'audio/vorbis' with confidence 0.08
+11-19 10:18:10.529   796  7411 D FFmpegExtractor: unsupported mime: application/ogg
+11-19 10:18:10.529   796  7411 I ExtendedExtractor: QTIParser is prefered .. flags 2
+11-19 10:18:10.530   796  7411 D MMParserExtractor: setExtraFlags called with flags 2 for paser instance edd0c780
+11-19 10:18:10.530   796  7411 D MMParserExtractor: using bigger parser buffers
+11-19 10:18:10.530   796  7411 I ExtendedExtractor: ExtendedExtractor::create 0xedd0c780
+11-19 10:18:10.533   797 24650 D NuPlayerDriver: notifyListener_l(0xe704f0e0), (1, 0, 0), loop setting(0, 0)
+11-19 10:18:10.546   796  1026 I FFmpegExtractor: android-source:0xec04dc00
+11-19 10:18:10.550   796  1026 I FFMPEG  : Input #0, ogg, from 'android-source:0xec04dc00':
+11-19 10:18:10.550   796  1026 I FFMPEG  :   Duration: N/A, bitrate: N/A
+11-19 10:18:10.550   796  1026 I FFMPEG  :     Stream #0:0: Audio: vorbis, 44100 Hz, 1 channels, 48 kb/s
+11-19 10:18:10.550   796  1026 I FFMPEG  :     Metadata:
+11-19 10:18:10.550   796  1026 I FFMPEG  :       TITLE           : Video Stop
+11-19 10:18:10.550   796  1026 I FFMPEG  :       ARTIST          : (c) 2012 Android Open Source Project
+11-19 10:18:10.550   796  1026 D FFmpegExtractor: FFmpegExtrator, url: android-source:0xec04dc00, format_name: ogg, format_long_name: Ogg
+11-19 10:18:10.550   796  1026 I FFmpegExtractor: adjust mime(application/ogg -> audio/vorbis)
+11-19 10:18:10.550   796  1026 D FFmpegExtractor: suppoted codec(vorbis) by official Stagefright
+11-19 10:18:10.550   796  1026 D FFmpegExtractor: ffmpeg detected media content as 'audio/vorbis' with confidence 0.08
+11-19 10:18:10.551   796  1026 D FFmpegExtractor: unsupported mime: application/ogg
+11-19 10:18:10.552   796  1026 I ExtendedExtractor: QTIParser is prefered .. flags 2
+11-19 10:18:10.553   796  1026 D MMParserExtractor: setExtraFlags called with flags 2 for paser instance edd0c280
+11-19 10:18:10.553   796  1026 D MMParserExtractor: using bigger parser buffers
+11-19 10:18:10.553   796  1026 I ExtendedExtractor: ExtendedExtractor::create 0xedd0c280
+11-19 10:18:10.557   797 24652 D NuPlayerDriver: notifyListener_l(0xe704ef60), (1, 0, 0), loop setting(0, 0)
+11-19 10:18:10.558  7034  7107 I Camera2ClientBase: Camera 0: Opened. Client: com.zzw.live (PID 24604, UID 10106)
+11-19 10:18:10.560  1497 19281 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1047
+11-19 10:18:10.560  7034  7107 I CameraService: onTorchStatusChangedLocked: Torch status changed for cameraId=0, newStatus=0
+11-19 10:18:10.561  2011  2228 D FlashlightTile: onFlashlightAvailabilityChangedfalse
+11-19 10:18:10.561  2011  2228 D FlashlightTile: onFlashlightChanged enabled=false
+11-19 10:18:10.561  2011  2228 D FlashlightTile: onFlashlightChanged enabled=false
+11-19 10:18:10.561  2011  2228 D FlashlightTile: onFlashlightAvailabilityChangedfalse
+11-19 10:18:10.561  2011  2228 D FlashlightTile: onFlashlightChanged enabled=false
+11-19 10:18:10.561  2011  2228 D FlashlightTile: onFlashlightChanged enabled=false
+11-19 10:18:10.561  2011  2236 D FlashlightTile: FlashlightTile state.visible=true mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:10.561  2011  2300 D FlashlightTile: FlashlightTile state.visible=true mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:10.561  2011  2236 D FlashlightTile: FlashlightTile state.visible=true mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:10.561  2011  2236 D FlashlightTile: FlashlightTile state.visible=true mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:10.562  7034  7107 I QCamera : <HAL><INFO> int qcamera::QCamera2Factory::cameraDeviceOpen(int, struct hw_device_t **): 405: Open camera id 0 API version 768
+11-19 10:18:10.562  2011  2300 D FlashlightTile: FlashlightTile state.visible=true mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:10.562  2011  2300 D FlashlightTile: FlashlightTile state.visible=true mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:10.570   492  2455 E ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+11-19 10:18:10.572  7034  7107 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::openCamera(struct hw_device_t **): 713: [KPI Perf]: E PROFILE_OPEN_CAMERA camera id 0
+11-19 10:18:10.572  7034  7107 I CameraService: onTorchStatusChangedLocked: Torch status changed for cameraId=0, newStatus=0
+11-19 10:18:10.573   821   821 I mm-camera: < INFO> 395: void enable_memleak_trace(int): start memleak tracking.
+11-19 10:18:10.581   821   821 I mm-camera: <MCT   >< INFO> 63: mct_controller_new: Creating new mct_controller with session-id 1
+11-19 10:18:10.581   821 24655 I mm-camera: <MCT   >< INFO> 4555: mct_pipeline_start_session_thread: E sensor
+11-19 10:18:10.582   821 24655 I mm-camera: <MCT   >< INFO> 4562: mct_pipeline_start_session_thread: Calling start_session on Module sensor
+11-19 10:18:10.582   821 24657 I mm-camera: <MCT   >< INFO> 4555: mct_pipeline_start_session_thread: E iface
+11-19 10:18:10.582   821 24657 I mm-camera: <MCT   >< INFO> 4562: mct_pipeline_start_session_thread: Calling start_session on Module iface
+11-19 10:18:10.584   821 24657 I mm-camera: <MCT   >< INFO> 4565: mct_pipeline_start_session_thread: Module iface start_session rc = 1
+11-19 10:18:10.584   821 24657 I mm-camera: <MCT   >< INFO> 4573: mct_pipeline_start_session_thread: started_num = 1, success = 1
+11-19 10:18:10.584   821 24657 I mm-camera: <MCT   >< INFO> 4580: mct_pipeline_start_session_thread: X iface
+11-19 10:18:10.584   821 24658 I mm-camera: <MCT   >< INFO> 4555: mct_pipeline_start_session_thread: E isp
+11-19 10:18:10.584   821 24658 I mm-camera: <MCT   >< INFO> 4562: mct_pipeline_start_session_thread: Calling start_session on Module isp
+11-19 10:18:10.585  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:10.585  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:10.585  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:10.585  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:10.585   821 24658 I mm-camera: <ISP   >< INFO> 205: isp_module_start_session: session id 1
+11-19 10:18:10.587   821 24660 I mm-camera: <MCT   >< INFO> 4555: mct_pipeline_start_session_thread: E stats
+11-19 10:18:10.587   821 24660 I mm-camera: <MCT   >< INFO> 4562: mct_pipeline_start_session_thread: Calling start_session on Module stats
+11-19 10:18:10.591   821 24661 I mm-camera: <MCT   >< INFO> 4555: mct_pipeline_start_session_thread: E pproc
+11-19 10:18:10.591   821 24661 I mm-camera: <MCT   >< INFO> 4562: mct_pipeline_start_session_thread: Calling start_session on Module pproc
+11-19 10:18:10.592   821 24655 I mm-camera: <MCT   >< INFO> 4565: mct_pipeline_start_session_thread: Module sensor start_session rc = 1
+11-19 10:18:10.594   821 24655 I mm-camera: <MCT   >< INFO> 4573: mct_pipeline_start_session_thread: started_num = 2, success = 2
+11-19 10:18:10.594   821 24655 I mm-camera: <MCT   >< INFO> 4580: mct_pipeline_start_session_thread: X sensor
+11-19 10:18:10.596   821 24662 I mm-camera: <MCT   >< INFO> 4555: mct_pipeline_start_session_thread: E imglib
+11-19 10:18:10.596   821 24662 I mm-camera: <MCT   >< INFO> 4562: mct_pipeline_start_session_thread: Calling start_session on Module imglib
+11-19 10:18:10.599   821 24662 I mm-camera: <MCT   >< INFO> 4565: mct_pipeline_start_session_thread: Module imglib start_session rc = 1
+11-19 10:18:10.599   821 24662 I mm-camera: <MCT   >< INFO> 4573: mct_pipeline_start_session_thread: started_num = 3, success = 3
+11-19 10:18:10.599   821 24662 I mm-camera: <MCT   >< INFO> 4580: mct_pipeline_start_session_thread: X imglib
+11-19 10:18:10.606   821 24661 I mm-camera: <MCT   >< INFO> 4565: mct_pipeline_start_session_thread: Module pproc start_session rc = 1
+11-19 10:18:10.606   821 24661 I mm-camera: <MCT   >< INFO> 4573: mct_pipeline_start_session_thread: started_num = 4, success = 4
+11-19 10:18:10.606   821 24661 I mm-camera: <MCT   >< INFO> 4580: mct_pipeline_start_session_thread: X pproc
+11-19 10:18:10.612   821 24658 I mm-camera: <MCT   >< INFO> 4565: mct_pipeline_start_session_thread: Module isp start_session rc = 1
+11-19 10:18:10.612   821 24658 I mm-camera: <MCT   >< INFO> 4573: mct_pipeline_start_session_thread: started_num = 5, success = 5
+11-19 10:18:10.612   821 24658 I mm-camera: <MCT   >< INFO> 4580: mct_pipeline_start_session_thread: X isp
+11-19 10:18:10.619   821 24660 I mm-camera: <MCT   >< INFO> 4565: mct_pipeline_start_session_thread: Module stats start_session rc = 1
+11-19 10:18:10.619   821 24660 I mm-camera: <MCT   >< INFO> 4573: mct_pipeline_start_session_thread: started_num = 6, success = 6
+11-19 10:18:10.619   821 24660 I mm-camera: <MCT   >< INFO> 4580: mct_pipeline_start_session_thread: X stats
+11-19 10:18:10.633   821   821 I mm-camera: <MCT   >< INFO> 4476: mct_pipeline_start_stream_internal: Adding session stream streamid= 0xf for session=1
+11-19 10:18:10.633   821   821 I mm-camera: <MCT   >< INFO> 4524: mct_pipeline_start_stream_internal: Linking session stream for session 1
+11-19 10:18:10.634   821   821 I mm-camera: <MCT   >< INFO> 510: mct_stream_start_link: Start linking Session-stream 0x1000f
+11-19 10:18:10.634   821   821 I mm-camera: <ISP   >< INFO> 801: isp_port_check_caps_reserve: port 0xf17f9fc0 ide 1000f type 10 dim 0 0
+11-19 10:18:10.634   821   821 I mm-camera: <PPROC >< INFO> 446: pproc_port_add_modules_to_stream: in identity 1000f stream 10 int_link = 0xf19f0780
+11-19 10:18:10.634   821   821 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods tmod and ppeiscore for identity 1000f
+11-19 10:18:10.635   821   821 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods ppeiscore and c2d for identity 1000f
+11-19 10:18:10.636   821   821 I mm-camera: <C2D   >< INFO> 1490: c2d_module_notify_add_stream: width 0, height 0, stride 0, scanline 0, is_type 0
+11-19 10:18:10.636   821   821 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods c2d and cpp for identity 1000f
+11-19 10:18:10.636   821   821 I mm-camera: <CPP   >< INFO> 2154: cpp_module_notify_add_stream: :width 0, height 0, stride 0, scanline 0, framelen 0
+11-19 10:18:10.636   821   821 I mm-camera: <CPP   >< INFO> 2319: cpp_module_notify_add_stream: : stream 10, fmt 1, asf_mode 0, sharpness_level 0.000000,asf mask 0, denoise 0, denoise_mask 0, dsdn mask 0,dsdn enable 0, tnr mask 0, tnr enable 0, ds_mask 0
+11-19 10:18:10.636   821   821 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods cpp and paaf for identity 1000f
+11-19 10:18:10.637   821   821 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods paaf and llvd for identity 1000f
+11-19 10:18:10.638   821   821 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods llvd and ezt for identity 1000f
+11-19 10:18:10.638   821   821 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods ezt and quadracfa for identity 1000f
+11-19 10:18:10.639   821   821 E mm-camera: <STATS ><ERROR> 2822: stats_port_check_caps_reserve: Invalid Port capability type!
+11-19 10:18:10.639   821   821 E mm-camera: <STATS ><ERROR> 2822: stats_port_check_caps_reserve: Invalid Port capability type!
+11-19 10:18:10.639   821   821 E mm-camera: <STATS ><ERROR> 2822: stats_port_check_caps_reserve: Invalid Port capability type!
+11-19 10:18:10.639   821   821 E mm-camera: <STATS ><ERROR> 2822: stats_port_check_caps_reserve: Invalid Port capability type!
+11-19 10:18:10.639   821   821 E mm-camera: <STATS ><ERROR> 2822: stats_port_check_caps_reserve: Invalid Port capability type!
+11-19 10:18:10.641   821   821 I mm-camera: <MCT   >< INFO> 4533: mct_pipeline_start_stream_internal: Session stream linked successfully session 1
+11-19 10:18:10.644   586  2791 I SDM     : ResourceImpl::SetMaxBandwidthMode: new bandwidth mode=1
+11-19 10:18:10.645  7034  7107 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::openCamera(struct hw_device_t **): 723: [KPI Perf]: X PROFILE_OPEN_CAMERA camera id 0, rc: 0
+11-19 10:18:10.645  7034  7107 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::initialize(const struct camera3_callback_ops *): 945: E :mCameraId = 0 mState = 1
+11-19 10:18:10.647  7034  7107 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::initialize(const struct camera3_callback_ops *): 978: X
+11-19 10:18:10.648  7034  7107 W Camera2-Parameters: initialize: Camera 0: Unknown preview format: 24
+11-19 10:18:10.648  7034  7107 W Camera2-Parameters: initialize: Camera 0: Unknown preview format: 25
+11-19 10:18:10.650  7034  7107 I Camera2-Parameters: Camera 0: Disabling ZSL mode
+11-19 10:18:10.650  7034  7107 I Camera2-Parameters: initialize: allowZslMode: 0 slowJpegMode 1
+11-19 10:18:10.657  1497  2204 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_DEVICE_STATS ; uid = 1047
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相尺寸  w:800  h:480  targetRatio:1.6666666666666667  minDiff:0.10000000149011612
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1920  height:1080  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1600  height:1200  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1440  height:1080  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1280  height:960  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1280  height:768  targetRatio:1.6666666666666667  ratio:1.6666666666666667   diff:0.0
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1280  height:720  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1200  height:1200  targetRatio:1.6666666666666667  ratio:1.0   diff:0.6666666666666667
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:1024  height:768  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.661 24604 24647 E CameraHelper: 照相支持尺寸  width:800  height:600  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:864  height:480  targetRatio:1.6666666666666667  ratio:1.8   diff:0.1333333333333333
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:800  height:480  targetRatio:1.6666666666666667  ratio:1.6666666666666667   diff:0.0
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:720  height:480  targetRatio:1.6666666666666667  ratio:1.5   diff:0.16666666666666674
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:640  height:480  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:640  height:360  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:480  height:640  targetRatio:1.6666666666666667  ratio:0.75   diff:0.9166666666666667
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:480  height:360  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:480  height:320  targetRatio:1.6666666666666667  ratio:1.5   diff:0.16666666666666674
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:352  height:288  targetRatio:1.6666666666666667  ratio:1.2222222222222223   diff:0.4444444444444444
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:320  height:240  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:240  height:320  targetRatio:1.6666666666666667  ratio:0.75   diff:0.9166666666666667
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:176  height:144  targetRatio:1.6666666666666667  ratio:1.2222222222222223   diff:0.4444444444444444
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:160  height:120  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相支持尺寸  width:144  height:176  targetRatio:1.6666666666666667  ratio:0.8181818181818182   diff:0.8484848484848485
+11-19 10:18:10.662 24604 24647 E CameraHelper: 照相best尺寸  1280  768
+11-19 10:18:10.663 24604 24647 E CameraHelper: 照相尺寸  w:800  h:480  targetRatio:1.6666666666666667  minDiff:0.10000000149011612
+11-19 10:18:10.663 24604 24647 E CameraHelper: 照相支持尺寸  width:4160  height:3120  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.663 24604 24647 E CameraHelper: 照相支持尺寸  width:4000  height:3000  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.663 24604 24647 E CameraHelper: 照相支持尺寸  width:3840  height:2160  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.663 24604 24647 E CameraHelper: 照相支持尺寸  width:3264  height:2448  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.663 24604 24647 E CameraHelper: 照相支持尺寸  width:3200  height:2400  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.663 24604 24647 E CameraHelper: 照相支持尺寸  width:2976  height:2976  targetRatio:1.6666666666666667  ratio:1.0   diff:0.6666666666666667
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:2592  height:1944  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:2688  height:1512  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:2048  height:1536  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:1920  height:1080  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:1600  height:1200  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:1440  height:1080  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:1280  height:960  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:1280  height:768  targetRatio:1.6666666666666667  ratio:1.6666666666666667   diff:0.0
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:1280  height:720  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.664 24604 24647 E CameraHelper: 照相支持尺寸  width:1200  height:1200  targetRatio:1.6666666666666667  ratio:1.0   diff:0.6666666666666667
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:1024  height:768  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:800  height:600  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:864  height:480  targetRatio:1.6666666666666667  ratio:1.8   diff:0.1333333333333333
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:800  height:480  targetRatio:1.6666666666666667  ratio:1.6666666666666667   diff:0.0
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:720  height:480  targetRatio:1.6666666666666667  ratio:1.5   diff:0.16666666666666674
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:640  height:480  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:640  height:360  targetRatio:1.6666666666666667  ratio:1.7777777777777777   diff:0.11111111111111094
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:480  height:640  targetRatio:1.6666666666666667  ratio:0.75   diff:0.9166666666666667
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:480  height:360  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:480  height:320  targetRatio:1.6666666666666667  ratio:1.5   diff:0.16666666666666674
+11-19 10:18:10.665 24604 24647 E CameraHelper: 照相支持尺寸  width:352  height:288  targetRatio:1.6666666666666667  ratio:1.2222222222222223   diff:0.4444444444444444
+11-19 10:18:10.666 24604 24647 E CameraHelper: 照相支持尺寸  width:320  height:240  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.666 24604 24647 E CameraHelper: 照相支持尺寸  width:240  height:320  targetRatio:1.6666666666666667  ratio:0.75   diff:0.9166666666666667
+11-19 10:18:10.666 24604 24647 E CameraHelper: 照相支持尺寸  width:176  height:144  targetRatio:1.6666666666666667  ratio:1.2222222222222223   diff:0.4444444444444444
+11-19 10:18:10.666 24604 24647 E CameraHelper: 照相支持尺寸  width:160  height:120  targetRatio:1.6666666666666667  ratio:1.3333333333333333   diff:0.3333333333333335
+11-19 10:18:10.666 24604 24647 E CameraHelper: 照相支持尺寸  width:144  height:176  targetRatio:1.6666666666666667  ratio:0.8181818181818182   diff:0.8484848484848485
+11-19 10:18:10.666 24604 24647 E CameraHelper: 照相best尺寸  1280  768
+11-19 10:18:10.667  7034  7108 E Camera2-Metadata: Mismatched tag type when updating entry enable (-2146762752) of type byte; got type int32 data instead 
+11-19 10:18:10.668  7034  7108 E Camera2-Metadata: Mismatched tag type when updating entry is_main (-2146762751) of type byte; got type int32 data instead 
+11-19 10:18:10.668  7034  7108 E Camera2-Metadata: Mismatched tag type when updating entry enable (-2146762752) of type byte; got type int32 data instead 
+11-19 10:18:10.668  7034  7108 E Camera2-Metadata: Mismatched tag type when updating entry is_main (-2146762751) of type byte; got type int32 data instead 
+11-19 10:18:10.669   492  2455 E ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+11-19 10:18:10.669  7034  7107 E QCamera : <MCI><ERROR> mm_channel_fsm_fn_stopped: 893: invalid state (1) for evt (6)
+11-19 10:18:10.669  7034  7107 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::configureStreamsPerfLocked(camera3_stream_configuration_t *): 1575: stream[0] type = 0, format = 34, width = 1280, height = 768, rotation = 0, usage = 0x100
+11-19 10:18:10.670   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=800000a
+11-19 10:18:10.672   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000018
+11-19 10:18:10.672   821 24676 I mm-camera: <MCT   >< INFO> 593: mct_stream_start_link: Link Metadata stream 0x10001: do nothing
+11-19 10:18:10.672   821 24676 I mm-camera: <MCT   >< INFO> 3772: mct_pipeline_process_set: Linking successful for stream 0x10001 stream type=7
+11-19 10:18:10.672   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000004
+11-19 10:18:10.676  7034  7107 D Camera3-Device: Set real time priority for request queue thread (tid 24683)
+11-19 10:18:10.680   492  2455 E ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+11-19 10:18:10.680  7034 24683 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::processCaptureRequest(camera3_capture_request_t *, List<InternalRequest> &): 4178: STREAM INFO : type 1, wxh: 1280 x 768, pp_mask: 0x100068e Format:0 is_type: 0
+11-19 10:18:10.680  7034 24683 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::processCaptureRequest(camera3_capture_request_t *, List<InternalRequest> &): 4178: STREAM INFO : type 11, wxh: 640 x 480, pp_mask: 0x100068e Format:0 is_type: 0
+11-19 10:18:10.681   821 24676 I mm-camera: <C2D   >< INFO> 1755: c2d_module_handle_set_parm_event: META_STREAM_INFO type = 1 w x h : 1280 x 768 pp_mask = 0x100068e
+11-19 10:18:10.681   821 24676 I mm-camera: <C2D   >< INFO> 1755: c2d_module_handle_set_parm_event: META_STREAM_INFO type = 11 w x h : 640 x 480 pp_mask = 0x100068e
+11-19 10:18:10.682   821 24676 I mm-camera: <ISP   >< INFO> 6626: isp_util_print_meta_stream_info: Stream type 1 Resolution: 1280x768 pp_mask: 0x100068e
+11-19 10:18:10.682   821 24676 I mm-camera: <ISP   >< INFO> 6626: isp_util_print_meta_stream_info: Stream type 11 Resolution: 640x480 pp_mask: 0x100068e
+11-19 10:18:10.683   821 24676 I mm-camera: <ISP   >< INFO> 2537: isp_resource_allocate: INFO: ISP resource acquired: session 1 num_isp 1
+11-19 10:18:10.683   821 24676 I mm-camera: <ISP   >< INFO> 2539: isp_resource_allocate: INFO: ISP resource acquired: hw_id 1
+11-19 10:18:10.683   821 24676 I mm-camera: <ISP   >< INFO> 6479: isp_util_decide_stream_mapping: stream_port_map num streams 2
+11-19 10:18:10.683   821 24676 I mm-camera: <ISP   >< INFO> 6493: isp_util_decide_stream_mapping: INFO: type -173367034 resolution 1x1280 hw_stream 768 need_native_buff 0 controllable_output 1 shared_output 0
+11-19 10:18:10.683   821 24676 I mm-camera: <ISP   >< INFO> 6493: isp_util_decide_stream_mapping: INFO: type -173367034 resolution 11x640 hw_stream 480 need_native_buff 0 controllable_output 1 shared_output 0
+11-19 10:18:10.687  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.689   821 24676 E mm-camera: <ISP   ><ERROR> 282: isp_port_process_downstream_module_event: failed: iface_request_stream_mapping_info
+11-19 10:18:10.689   821 24676 E mm-camera: <ISP   ><ERROR> 395: isp_port_process_downstream_event: failed: isp_port_process_downstream_module_event
+11-19 10:18:10.689   821 24676 E mm-camera: <ISP   ><ERROR> 523: isp_port_event: failed: isp_port_process_downstream_event
+11-19 10:18:10.689   821 24676 E mm-camera: <IFACE ><ERROR> 1544: iface_util_request_stream_mapping_info: iface_util_request_stream_mapping_info:1544 post module msg error
+11-19 10:18:10.689   821 24676 E mm-camera: <IFACE ><ERROR> 5885: iface_util_handle_meta_stream_info: iface_util_handle_meta_stream_info:5885 stream mapping req failed, no native buf opt
+11-19 10:18:10.690   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=800000a
+11-19 10:18:10.692   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000018
+11-19 10:18:10.692   821 24676 I mm-camera: <MCT   >< INFO> 488: mct_stream_start_link: Start linking preview stream 0x10002
+11-19 10:18:10.692   821 24676 I mm-camera: <MCT   >< INFO> 498: mct_stream_start_link: non secure stream linking
+11-19 10:18:10.692   821 24676 I mm-camera: <ISP   >< INFO> 801: isp_port_check_caps_reserve: port 0xf17f9fc0 ide 10002 type 1 dim 1280 768
+11-19 10:18:10.693   821 24676 I mm-camera: <PPROC >< INFO> 446: pproc_port_add_modules_to_stream: in identity 10002 stream 1 int_link = 0xf19f0a00
+11-19 10:18:10.693   821 24676 I mm-camera: <PPROC >< INFO> 458: pproc_port_add_modules_to_stream: :LINK linking mods tmod and cpp for identity 10002
+11-19 10:18:10.693   821 24676 I mm-camera: <CPP   >< INFO> 2154: cpp_module_notify_add_stream: :width 1280, height 768, stride 1280, scanline 768, framelen 1495040
+11-19 10:18:10.693   821 24676 I mm-camera: <CPP   >< INFO> 2178: cpp_module_notify_add_stream: offset_x 0, offset_y 0, offset 0, meta_len 0,meta_scanline 0, meta_stride 0, plane_len 983040
+11-19 10:18:10.693   821 24676 I mm-camera: <CPP   >< INFO> 2178: cpp_module_notify_add_stream: offset_x 0, offset_y 0, offset 0, meta_len 0,meta_scanline 0, meta_stride 0, plane_len 512000
+11-19 10:18:10.693   821 24676 I mm-camera: <CPP   >< INFO> 2319: cpp_module_notify_add_stream: : stream 1, fmt 7, asf_mode 0, sharpness_level 0.333333,asf mask 1, denoise 0, denoise_mask 1, dsdn mask 0,dsdn enable 0, tnr mask 0, tnr enable 0, ds_mask 1
+11-19 10:18:10.694   821 24676 E mm-camera: <IMGLIB><ERROR> 4525: faceproc_hw_comp_create: Library not loaded, handle=0x0, p_ops=0xe7f3410c
+11-19 10:18:10.694   821 24676 I mm-camera: <MCT   >< INFO> 3772: mct_pipeline_process_set: Linking successful for stream 0x10002 stream type=1
+11-19 10:18:10.694   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000004
+11-19 10:18:10.694   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=800000a
+11-19 10:18:10.696   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000018
+11-19 10:18:10.696   821 24676 I mm-camera: <MCT   >< INFO> 581: mct_stream_start_link: Starting Analysis stream linking
+11-19 10:18:10.696   821 24676 I mm-camera: <ISP   >< INFO> 801: isp_port_check_caps_reserve: port 0xf17f9fc0 ide 10003 type 11 dim 640 480
+11-19 10:18:10.697   821 24676 I mm-camera: <PPROC >< INFO> 446: pproc_port_add_modules_to_stream: in identity 10003 stream 11 int_link = 0xf19f0a00
+11-19 10:18:10.697   821 24676 I mm-camera: <MCT   >< INFO> 3772: mct_pipeline_process_set: Linking successful for stream 0x10003 stream type=11
+11-19 10:18:10.698   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000004
+11-19 10:18:10.698   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000019
+11-19 10:18:10.698   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000019
+11-19 10:18:10.717   654   734 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+11-19 10:18:10.753   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000008
+11-19 10:18:10.753   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-ON on stream 0x10001 stream type=7
+11-19 10:18:10.753   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-ON success for stream 0x10001, stream type=7
+11-19 10:18:10.754   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000008
+11-19 10:18:10.754   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-ON on stream 0x10002 stream type=1
+11-19 10:18:10.754   821 24676 I mm-camera: <SENSOR>< INFO> 3667: sensor_get_resolution_info: sensor info: name: imx214, res: 1, max_fps: 30.000000, w: 4096, h: 2160 op pix clk: 465000000, FLL: 3194, LLPCK: 5008, mode: 1, PDAF support: 0
+11-19 10:18:10.755   821 24676 E mm-camera: <STATS_AF ><ERROR> 3167: af_port_handle_sensor_update: Depth_Err: actuator sensitivity: 0.000000 is invalid
+11-19 10:18:10.755   821 24676 I mm-camera: <CPP   >< INFO> 1734: cpp_module_handle_stream_cfg_event: frame_offset=2, input_fps=30.00, identity=0x1000f
+11-19 10:18:10.755   821 24676 I mm-camera: <CPP   >< INFO> 1734: cpp_module_handle_stream_cfg_event: frame_offset=2, input_fps=30.00, identity=0x10002
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: int img_algo_preload(img_base_ops_t*, void*):126 : E
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: static int32_t QCameraQuadraCfa::PresetConfig(img_base_ops_t*, void*):495 : E
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: static int32_t QCameraQuadraCfa::PresetConfig(img_base_ops_t*, void*):497 : custom_cal_data  0
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: static int32_t QCameraQuadraCfa::PresetConfig(img_base_ops_t*, void*):498 : full_height  c30
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: static int32_t QCameraQuadraCfa::PresetConfig(img_base_ops_t*, void*):499 : full_width  1070
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: static int32_t QCameraQuadraCfa::PresetConfig(img_base_ops_t*, void*):500 : filter_arrangement  3
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: static int32_t QCameraQuadraCfa::PresetConfig(img_base_ops_t*, void*):501 : pedestal  40
+11-19 10:18:10.755   821  1230 E quadracfa_dummy: inside dummy remosaic_init 1
+11-19 10:18:10.755   821  1230 E quadracfa_dummy: inside dummy remosaic_gainmap_gen 1
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: static int32_t QCameraQuadraCfa::PresetConfig(img_base_ops_t*, void*):515 : X
+11-19 10:18:10.755   821  1230 D QCameraQuadraCfa: int img_algo_preload(img_base_ops_t*, void*):128 : X
+11-19 10:18:10.759   821 24676 I mm-camera: <IFACE >< INFO> 409: iface_util_dump_sensor_cfg: iface_util_dump_sensor_cfg: sensor dim: width = 4096, heght = 2160, fmt = 30, is_bayer = 1, init_skip = 1
+11-19 10:18:10.759   821 24672 I mm-camera: <STATS_AF >< INFO> 1277: af_haf_update_tuning_data: Setting default init pos to far end
+11-19 10:18:10.763   821 24676 E mm-camera: <IFACE ><ERROR> 4075: iface_util_set_hw_stream_config_pix: iface_util_set_hw_stream_config_pix: Assigned vfe 1 intf 0 for related cam type 1
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3573: iface_util_dump_isp_resource_request:  =====DUMP RESOURCE: PIX STREAM=== 
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3574: iface_util_dump_isp_resource_request: num pix stream = 1
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3577: iface_util_dump_isp_resource_request: num_isp = 1, isp_mask = 2, request_op_pix_clk = 0
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3581: iface_util_dump_isp_resource_request: ispif stripe info: split 0, overlap 0, stripe offset 0
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3584: iface_util_dump_isp_resource_request: pix stream 0
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3587: iface_util_dump_isp_resource_request: num mct stream mapped = 2(Mapped stream ID[0] = 2)
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3590: iface_util_dump_isp_resource_request: axi path = 1(ENC-0/VIEW-1/CAMIF-2/IDEAL-3), cam_fmt 7
+11-19 10:18:10.763   821 24676 I mm-camera: <IFACE >< INFO> 3612: iface_util_dump_isp_resource_request: num STATS stream = 5
+11-19 10:18:10.763   821 24676 I mm-camera: <CPP   >< INFO> 865: cpp_module_handle_isp_out_dim_event: [STREAM_PARAMS]  stream type 1, width 1456, height 768,stride 1472, scanline 768, planes 2
+11-19 10:18:10.763   821 24676 I mm-camera: <CPP   >< INFO> 884: cpp_module_handle_isp_out_dim_event: [STREAM_PARAMS] plane 0, stride 1472, scanline 768, offset_x 0, offset_y 0, len 1130496, offset:0
+11-19 10:18:10.763   821 24676 I mm-camera: <CPP   >< INFO> 884: cpp_module_handle_isp_out_dim_event: [STREAM_PARAMS] plane 1, stride 1472, scanline 768, offset_x 0, offset_y 0, len 565248, offset:0
+11-19 10:18:10.766   821 24676 I mm-camera: <IFACE >< INFO> 8887: iface_util_dump_camif_cfg: =====Camif DUMP cfg for PIX interface====
+11-19 10:18:10.766   821 24676 I mm-camera: <IFACE >< INFO> 8889: iface_util_dump_camif_cfg: camif input type = 3(MIPI=3), op_pix_clk = 465000000
+11-19 10:18:10.766   821 24676 I mm-camera: <IFACE >< INFO> 8891: iface_util_dump_camif_cfg: camif pix_pattern(RGRG-0/GRGR-1/BGBG-2/GBGB-3) = 0
+11-19 10:18:10.766   821 24676 I mm-camera: <IFACE >< INFO> 8893: iface_util_dump_camif_cfg: camif first_pix = 0, last_pix = 4095
+11-19 10:18:10.766   821 24676 I mm-camera: <IFACE >< INFO> 8895: iface_util_dump_camif_cfg: camif first_line = 0, last_line = 2159
+11-19 10:18:10.766   821 24676 I mm-camera: <IFACE >< INFO> 8897: iface_util_dump_camif_cfg: camif pixels_per_line = 4096, lines_per_frame = 2160
+11-19 10:18:10.766   821 24676 I mm-camera: <IFACE >< INFO> 8901: iface_util_dump_camif_cfg: camif irq subsample pattern = 0, period = 0 sof_step 1
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 549: iface_dump_axi_plane_config: === AXI DUMP: VFE session_id 1, hw_stream_id 10002 ===
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 553: iface_dump_axi_plane_config:     AXI DUMP Axi_src: VIEWFINDER hw_stream width 1456, height 768
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 555: iface_dump_axi_plane_config: need buf divert = 1, burst count = 0
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 558: iface_dump_axi_plane_config: hfr mode = 0, skip pattern = 0, init_frame_drop = 1
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 591: iface_dump_axi_plane_config: plane[0]: plane_fmt 0(Y-0/CB-1/Cr-2/CrCb-3/CbCr-4)
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 593: iface_dump_axi_plane_config: plane[0]: width = 1456, height = 768
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 595: iface_dump_axi_plane_config: plane[0]: stride = 1472, scanlines = 768
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 597: iface_dump_axi_plane_config: plane[0]: address_offset 0
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 591: iface_dump_axi_plane_config: plane[1]: plane_fmt 4(Y-0/CB-1/Cr-2/CrCb-3/CbCr-4)
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 593: iface_dump_axi_plane_config: plane[1]: width = 1456, height = 384
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 595: iface_dump_axi_plane_config: plane[1]: stride = 1472, scanlines = 384
+11-19 10:18:10.767   821 24698 I mm-camera: <IFACE >< INFO> 597: iface_dump_axi_plane_config: plane[1]: address_offset 0
+11-19 10:18:10.771   821 24676 I mm-camera: <IFACE >< INFO> 1562: iface_streamon_to_thread: iface_streamon_to_thread: E, session id = 1, user stream id = 2
+11-19 10:18:10.771   821 24659 I mm-camera: <IFACE >< INFO> 1907: iface_streamon: E, session_id 1 mct_stream_id = 2
+11-19 10:18:10.771   821 24659 I mm-camera: <IFACE >< INFO> 10970: iface_util_get_user_streams_by_bundle: got No.1 bundled streamon, mct stream id 2total bundled stream num = 2
+11-19 10:18:10.771   821 24676 I mm-camera: <ISP   >< INFO> 3632: mesh_rolloff40_normalize_table: full 4096 2160 out 4096 2160 offset 0 0 scale 1
+11-19 10:18:10.777   821 24673 I mm-camera: <ISP   >< INFO> 90: rs_stats44_stats_config_update: warning: max_support_h_rgn invalid 8
+11-19 10:18:10.777   821 24676 I mm-camera: <CPP   >< INFO> 3836: cpp_module_handle_streamon_event: identity=0x10002, stream-on done
+11-19 10:18:10.777   821 24676 I mm-camera: <IFACE >< INFO> 1593: iface_streamon_to_thread: iface_streamon_to_thread: X, session id = 1, user stream id = 2
+11-19 10:18:10.778   821 24676 I mm-camera: <MCT   >< INFO> 154: start_sof_check_thread: Starting SOF timeout thread session id =1
+11-19 10:18:10.778   821 24663 I mm-camera: <CPP   >< INFO> 359: cpp_hardware_set_clock: Set clock 100000000 BW avg 106831872 BW inst 106831872
+11-19 10:18:10.779   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-ON success for stream 0x10002, stream type=1
+11-19 10:18:10.779   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000008
+11-19 10:18:10.779   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-ON on stream 0x10003 stream type=11
+11-19 10:18:10.779   821 24676 I mm-camera: <IFACE >< INFO> 1562: iface_streamon_to_thread: iface_streamon_to_thread: E, session id = 1, user stream id = 3
+11-19 10:18:10.780   821 24659 I mm-camera: <IFACE >< INFO> 1907: iface_streamon: E, session_id 1 mct_stream_id = 3
+11-19 10:18:10.780   821 24659 I mm-camera: <IFACE >< INFO> 10964: iface_util_get_user_streams_by_bundle: streamon, got all bundled streamon!
+11-19 10:18:10.783   821 24673 I mm-camera: <ISP   >< INFO> 90: rs_stats44_stats_config_update: warning: max_support_h_rgn invalid 8
+11-19 10:18:10.783   821 24676 E mm-camera: <IMGLIB><ERROR> 396: faceproc_comp_get_param: faceproc_comp_get_param:396] Error type 520
+11-19 10:18:10.783   821 24676 E mm-camera: <IMGLIB><ERROR> 1701: faceproc_sw_wrapper_get_config: Null pointer p_handle=0x0, p_config=0xe9d7e64c
+11-19 10:18:10.783   821 24676 E mm-camera: <IMGLIB><ERROR> 318: faceproc_comp_set_param: Error param=521
+11-19 10:18:10.783   821 24676 E mm-camera: <IMGLIB><ERROR> 3396: module_faceproc_client_exec: rc -4
+11-19 10:18:10.789   821 24676 I mm-camera: <ISP   >< INFO> 451: be_stats44_trigger_update: warning: Denomitor is zero hnum 0 vnum 0
+11-19 10:18:10.790   821 24676 I mm-camera: <ISP   >< INFO> 531: isp_pipeline42_create_module_cfg_mask: invalid module id 42
+11-19 10:18:10.812   821 24659 I mm-camera: <IFACE >< INFO> 2173: iface_streamon: X
+11-19 10:18:10.812   821 24676 I mm-camera: <IFACE >< INFO> 1593: iface_streamon_to_thread: iface_streamon_to_thread: X, session id = 1, user stream id = 3
+11-19 10:18:10.813   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-ON success for stream 0x10003, stream type=11
+11-19 10:18:10.813  7034 24683 I QTI PowerHAL: Got process_video_encode_hint
+11-19 10:18:10.814   492  2455 E ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+11-19 10:18:10.814  7034 24683 E QCamera3HWI: CAM_DEBUG: Setting compensation:0
+11-19 10:18:10.820   821 24697 I mm-camera: <ISP   >< INFO> 1260: isp_handler_module_handle_reg_update:  Warning! Invalid reg_update state 0
+11-19 10:18:10.821  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.827  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.828  1497  1575 D ActivityTrigger: ActivityTrigger activityStopTrigger 
+11-19 10:18:10.831 24604 24604 V Activity: onSaveInstanceState com.zzw.live.MainActivity@4c1f0d: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@80c2073, 2131165191=android.support.v7.widget.Toolbar$SavedState@aff0b30, 2131165193=android.view.AbsSavedState$1@80c2073, 2131165199=android.view.AbsSavedState$1@80c2073, 2131165229=android.view.AbsSavedState$1@80c2073, 2131165272=android.view.AbsSavedState$1@80c2073, 2131165276=android.view.AbsSavedState$1@80c2073}}], android:fragments=android.app.FragmentManagerState@b2093a9}]
+11-19 10:18:10.832 24604 24604 V Activity: onStop com.zzw.live.MainActivity@4c1f0d
+11-19 10:18:10.838  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:10.877   821 24663 I mm-camera: <CPP   >< INFO> 359: cpp_hardware_set_clock: Set clock 100000000 BW avg 106831872 BW inst 106831872
+11-19 10:18:10.888   821 24668 I mm-camera: <ISP   >< INFO> 451: be_stats44_trigger_update: warning: Denomitor is zero hnum 0 vnum 0
+11-19 10:18:10.888   821 24668 I mm-camera: <ISP   >< INFO> 230: ihist_stats44_stats_config_validate: warning: Invalid IHIST ROI from 3A 0 0 0 0
+11-19 10:18:10.888   821 24678 E mm-camera: <STATS_AF ><ERROR> 5152: af_port_handle_set_focus_manual_pos_evt: not in CAM_FOCUS_MODE_OFF(Manual) mode,           ignore the settings
+11-19 10:18:10.915   821 24670 E mm-camera: <ERROR> 831: dmlroc_init: dmlroc_init cfg: camif 2160x4096, elem 90x128, thres 0.001600, accur 8
+11-19 10:18:10.916   821 24670 E mm-camera: <ERROR> 832: dmlroc_init: dmlroc_init cfg: offsetH 0, offsetV 0
+11-19 10:18:10.916   821 24670 E mm-camera: <ERROR> 833: dmlroc_init: dmlroc_init mesh: rxc 10x13, subs 8, hxw 30x30, offset vert 0, horz 64
+11-19 10:18:10.928  2011  2011 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-42,lastModified=11-19 10:18:09,ssid="gyt"
+11-19 10:18:10.928  2011  2011 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-42,lastModified=11-19 10:18:09,ssid="gyt"
+11-19 10:18:10.929  2011  2011 D WifiSignalController: notifyListeners visibleWhenEnabled=false wifiVisible=true
+11-19 10:18:10.929  2011  2011 D HyteraStatusBarWifiView: setWifiIndicators mWifiVisible=true
+11-19 10:18:10.929  2011  2011 D wifiview: HyteraStatusBarWifiView apply() NrmUtils.hideWlanMenu()=false
+11-19 10:18:10.930  1497  4530 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:10.931  1497  2762 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:10.934  1497  2771 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:10.935  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:10.939  1497  2589 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:10.939  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:10.940  1497  2655 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:10.940  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:10.940  2011  2011 D PhoneStatusBar: ~~~~~~~~~~setIcon slot=wifi
+11-19 10:18:10.941  2011  2011 D StatusBarIconController: applyIconTint
+11-19 10:18:10.941  2011  2011 D SignalClusterView: setIconTint changed=false
+11-19 10:18:10.954 24604 24647 W GLConsumer: [SurfaceTexture-2-24604-0] bindTextureImage: clearing GL error: 0x500
+11-19 10:18:10.993   821 24678 I mm-camera: <MCT   >< INFO> 2395: mct_stream_process_bus_msg: Request on frame id 6 to delay metadata for 1 frame(s)
+11-19 10:18:11.055   821 24678 I mm-camera: <MCT   >< INFO> 871: mct_controller_send_superparam: Bypass super-param settings on this frame
+11-19 10:18:11.059   821 24668 I mm-camera: <IFACE >< INFO> 1971: iface_util_cds_request_done: <cds_dbg> isp cds updating, enable = 0
+11-19 10:18:11.059   821 24668 I mm-camera: <IFACE >< INFO> 1378: iface_handle_cds_request_to_thread: <cds_dbg2> EXECUTE AXI updating!! curr enb = 0, request enb = 1
+11-19 10:18:11.059   821 24659 I mm-camera: <IFACE >< INFO> 329: iface_session_thread_proc_cmd: <cds_dbg> cds wait KERNEL......
+11-19 10:18:11.104  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:11.104  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:11.104  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:11.104  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:11.169   654   734 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+11-19 10:18:11.188   821 24659 I mm-camera: <IFACE >< INFO> 339: iface_session_thread_proc_cmd: <cds_dbg> cds wait KERNEL done!
+11-19 10:18:11.236   654   734 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+11-19 10:18:11.368   916   916 I MSM-irqbalance: Decided to move IRQ3 from CPU0 [P:0] to CPU4 [P:1] (banned)
+11-19 10:18:11.370   916   916 I MSM-irqbalance: Decided to move IRQ5 from CPU0 [P:0] to CPU6 [P:1] (banned)
+11-19 10:18:11.372   916   916 I MSM-irqbalance: Decided to move IRQ5 from CPU3 [P:0] to CPU5 [P:1] (banned)
+11-19 10:18:11.373   916   916 I MSM-irqbalance: Decided to move IRQ5 from CPU2 [P:0] to CPU7 [P:1] (banned)
+11-19 10:18:11.374   916   916 I MSM-irqbalance: Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+11-19 10:18:11.376   916   916 I MSM-irqbalance: Decided to move IRQ3 from CPU1 [P:0] to CPU6 [P:1] (banned)
+11-19 10:18:11.402   654   734 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+11-19 10:18:11.501  1395  1462 W XTCC-5.1.0.23-d: [CS-RIL-LISTENER] timerCallback fired for ril update registering, re-register
+11-19 10:18:11.518   769   888 D CONNECTIVITY: RIL_onUnsolicitedResponse()
+11-19 10:18:11.519  1497  1726 E DSPRil  : processResponse RESPONSE_UNSOLICITED
+11-19 10:18:11.519  1497  1726 E DSPRil  : processUnsolicited response=1241
+11-19 10:18:11.520  1497  1726 V DSPRil  : processUnsolicited parcel12
+11-19 10:18:11.520  1497  1726 V DSPRil  : UNSOL_HRCPP_Request_Common_Get_LocationBaseStationInfo
+11-19 10:18:11.520  1497  1721 V GPSManagerService: EVENT_HRCPP_Get_LocationBaseStationInfo Operation:2
+11-19 10:18:11.520  1497  1726 V DSPRil  : response1241ret:2
+11-19 10:18:11.520  1497  1721 V GPSManagerService: HRCPP_Get_LocationBaseStationInfo
+11-19 10:18:11.524  1497  1497 W LocationToNB: hff: isGnssOpen=true
+11-19 10:18:11.526  1497  1497 D hytera  : called me: java.lang.Throwable
+11-19 10:18:11.526  1497  1497 D hytera  : 	at android.location.LocationManager.requestLocationUpdates(LocationManager.java:470)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at com.android.server.locationtonb.LocationToNBService$1.HRCPP_Get_LocationBaseStationInfo(LocationToNBService.java:414)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at android.dsp.proxy.GPSManager$GpsManagerListenerTransport._handleMessage(GPSManager.java:116)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at android.dsp.proxy.GPSManager$GpsManagerListenerTransport.-wrap0(GPSManager.java)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at android.dsp.proxy.GPSManager$GpsManagerListenerTransport$2.handleMessage(GPSManager.java:69)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at android.os.Handler.dispatchMessage(Handler.java:102)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at android.os.Looper.loop(Looper.java:154)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at com.android.server.SystemServer.run(SystemServer.java:379)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at com.android.server.SystemServer.main(SystemServer.java:246)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at java.lang.reflect.Method.invoke(Native Method)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:889)
+11-19 10:18:11.526  1497  1497 D hytera  : 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:779)
+11-19 10:18:11.530  1497 30584 I PackageManager:  checkUidPermission permName = android.permission.READ_PHONE_STATE ; uid = 10022
+11-19 10:18:11.531  1497  2619 I PackageManager:  checkUidPermission permName = android.permission.WRITE_EXTERNAL_STORAGE ; uid = 10022
+11-19 10:18:11.532  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_COARSE_LOCATION ; uid = 10022
+11-19 10:18:11.534  1497  2765 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:11.535  2858  2858 I NLP     : 百度SDK响应值为：0
+11-19 10:18:11.536  1497 27286 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_NETWORK_STATE ; uid = 10022
+11-19 10:18:11.537 20340 20372 I USBService: send udp to check mobileagent state.
+11-19 10:18:11.538 20340 20374 I ===Mrcp===: sending cmd:276
+11-19 10:18:11.540 20340 20509 I USBService: command is : [277] 
+11-19 10:18:11.541 20340 20509 I USBService: res:-131070 res2:2 opt:-2
+11-19 10:18:11.541 20340 20509 I USBService: 	 mobileagent state:-2. 
+11-19 10:18:11.541  1497 21506 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10022
+11-19 10:18:11.541 20340 20372 I USBService: get mobileagent state 1 and current mobileagent state 1 and usb state of connection true
+11-19 10:18:11.542  2858  3019 D NLPLOC  : wifi connect scan time < 360S
+11-19 10:18:11.553  1497  2656 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:11.554  1497  2352 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:11.555  1497 17015 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:11.556  1497 17015 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:11.560  1497  1973 I PackageManager:  checkUidPermission permName = android.permission.WAKE_LOCK ; uid = 1001
+11-19 10:18:11.560  1497  1973 D PowerManagerService: acquireWakeLockInternal: lock=45800193, flags=0x1, tag="RILJ", ws=null, uid=1001, pid=2189
+11-19 10:18:11.573  1497  2769 I PackageManager:  checkUidPermission permName = android.permission.WAKE_LOCK ; uid = 1001
+11-19 10:18:11.580  1497  2203 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:11.581  1497  2621 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:11.581  1497  2038 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:11.581  1497  2038 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:11.583  2858  3019 I NLPLOC  : cell sim2 == null
+11-19 10:18:11.583  2858  3019 I NLPLOC  : all cell is no valid
+11-19 10:18:11.585  1497  1529 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10022
+11-19 10:18:11.585  1497  1529 I PackageManager:  checkUidPermission permName = android.permission.PEERS_MAC_ADDRESS ; uid = 10022
+11-19 10:18:11.585  1497  1529 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS_FULL ; uid = 10022
+11-19 10:18:11.586  1497  1529 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:11.590  2858  3019 D NLPLOC  : start network locating ...false  false
+11-19 10:18:11.590  2858  3019 D NLP_STA : network locating ...false  false
+11-19 10:18:11.599  1497  5623 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:11.599  1497  2735 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:11.600  1497  1528 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:11.600  1497  1528 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:11.603  1497 19281 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:11.604  1497  2590 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:11.606  1497  2204 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:11.606  1497  2204 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:11.609  2858  3019 I NLPLOC  : cell sim2 == null
+11-19 10:18:11.609  2858  3019 I NLPLOC  : all cell is no valid
+11-19 10:18:11.610  1497 13361 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_NETWORK_STATE ; uid = 10022
+11-19 10:18:11.612  1497  2649 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10022
+11-19 10:18:11.613  1497  2649 I PackageManager:  checkUidPermission permName = android.permission.LOCAL_MAC_ADDRESS ; uid = 10022
+11-19 10:18:11.617  1497 23903 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_FINE_LOCATION ; uid = 10022
+11-19 10:18:11.618  1497  4530 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1001
+11-19 10:18:11.619  1497  2762 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 1001
+11-19 10:18:11.619  1497  2762 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 1001
+11-19 10:18:11.621  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:11.621  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:11.621  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:11.621  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:11.630 20340 20369 I ===DaemonService===: ############## Rotation : 0
+11-19 10:18:11.630 20340 20369 I ===DaemonService===: ScreenOrientationThread:0 screentOrientation:0
+11-19 10:18:11.630 20340 20367 I ===APKProtocolTransmit===: Ready send su-cmd:275
+11-19 10:18:11.630 20340 20367 I ===APKProtocolTransmit===: Start send su-cmd:275 length[14]
+11-19 10:18:11.630 20340 20367 I ===APKProtocolTransmit===: Will write content:the C socket has not been connected,so dicard the send command:[275]
+11-19 10:18:11.631 20340 20367 I ===APKProtocolTransmit===: End send sb-cmd:275
+11-19 10:18:11.634  2858 24705 D NLPLOC  : upDataStr = :null
+11-19 10:18:11.702  2858 24705 W NLPLOC  : https NetworkCommunicationException!
+11-19 10:18:11.724  1497 30584 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_NETWORK_STATE ; uid = 10022
+11-19 10:18:11.735  2858  2858 E NLP     : Location result:[location failed by Baidu], reason:[location type =67]
+11-19 10:18:11.736  2858  2858 E NLP     : NetworkLocation Exception: offlinelocationfail exception
+11-19 10:18:11.931  2011  2011 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-42,lastModified=11-19 10:18:10,ssid="gyt"
+11-19 10:18:11.931  2011  2011 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-42,lastModified=11-19 10:18:10,ssid="gyt"
+11-19 10:18:11.931  2011  2011 D WifiSignalController: notifyListeners visibleWhenEnabled=false wifiVisible=true
+11-19 10:18:11.932  2011  2011 D HyteraStatusBarWifiView: setWifiIndicators mWifiVisible=true
+11-19 10:18:11.932  2011  2011 D wifiview: HyteraStatusBarWifiView apply() NrmUtils.hideWlanMenu()=false
+11-19 10:18:11.932  1497  2619 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:11.937  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:11.940  1497  2765 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:11.940  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:11.942  1497 27286 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:11.943  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:11.943  1497 21506 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:11.944  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:11.944  2011  2011 D PhoneStatusBar: ~~~~~~~~~~setIcon slot=wifi
+11-19 10:18:11.944  2011  2011 D StatusBarIconController: applyIconTint
+11-19 10:18:11.945  2011  2011 D SignalClusterView: setIconTint changed=false
+11-19 10:18:11.962  1497  1844 D InputDispatcher:   Pointer 0: id=0, toolType=1, x=249.480255, y=753.058716, action=0x0
+11-19 10:18:11.963  2011  2011 D PhoneStatusBar: getCalloutClockState() mCalloutLockState=false
+11-19 10:18:11.964  1497  2656 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:11.965  2011  2011 D StatusBarWindowView: dispatchTouchEvent event =ACTION_OUTSIDE isNotificationPanelViewLocked=false getCalloutClockState=false getTaskTopAPP=false isOccluded=false mService.getBarState()=0 unLockSuccess=false
+11-19 10:18:11.966  1497  2352 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:11.967  2011  2011 D PhoneStatusBar: getCalloutClockState() mCalloutLockState=false
+11-19 10:18:11.967  2011  2011 D StatusBarWindowView: dispatchTouchEvent StatusBarState.SHADE--false
+11-19 10:18:11.968  2011  2011 D PhoneStatusBar: getCalloutClockState() mCalloutLockState=false
+11-19 10:18:11.968  2011  2011 D PhoneStatusBar: mStatusBarWindow  onTouch  ,mExpandedVisible:false
+11-19 10:18:11.968  2011  2011 D StatusBarWindowView: onTouchEvent
+11-19 10:18:11.968  2011  2011 D StatusBarWindowView: onTouchEvent handled=false
+11-19 10:18:11.969  2011  2011 D StatusBarWindowView: onTouchEvent
+11-19 10:18:11.970  2011  2011 D StatusBarWindowView: onTouchEvent handled=false
+11-19 10:18:12.038  1497  1844 D InputDispatcher:   Pointer 0: id=0, toolType=1, x=249.480255, y=753.058716, action=0x1
+11-19 10:18:12.050 24604 24604 E zzz     : id = 1
+11-19 10:18:12.083   797 10845 I MediaPlayerService: MediaPlayerService::getOMX
+11-19 10:18:12.087 24604 24708 I OMXClient: MuxOMX ctor
+11-19 10:18:12.095   792  1861 I OMXMaster: makeComponentInstance(OMX.qcom.video.encoder.avc) in mediacodec process
+11-19 10:18:12.101   792  1861 I OMX-VENC: Video encode perflock acquired,handle=3698
+11-19 10:18:12.112  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.116  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.130  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:12.130  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:12.130  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:12.130  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:12.140  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.145  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.206  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.221  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.222  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.227  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.230  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.234  1497  1722 V AccManagerService: cdcEtherAdd update acc from usb mAccState: CInt4Pracel [mInt1=0, mInt2=12, mInt3=0, mInt4=0]
+11-19 10:18:12.308   792  1861 I OMX-VENC: Component_init : OMX.qcom.video.encoder.avc : return = 0x0
+11-19 10:18:12.312   792  9635 E OMX-VENC: set_parameter: metamode is valid for input port only
+11-19 10:18:12.312   792  9635 W OMXNodeInstance: [31806b5:qcom.encoder.avc] component does not support metadata mode; using fallback
+11-19 10:18:12.313 24604 24708 E ACodec  : [OMX.qcom.video.encoder.avc] storeMetaDataInBuffers (output) failed w/ err -1010
+11-19 10:18:12.313 24604 24708 I ExtendedACodec: setupVideoEncoder()
+11-19 10:18:12.314 24604 24708 W ACodec  : do not know color format 0x7fa30c04 = 2141391876
+11-19 10:18:12.315 24604 24708 W ACodec  : do not know color format 0x7f000789 = 2130708361
+11-19 10:18:12.321   792 29775 E OMX-VENC: ERROR: Unsupported H.264 level= 0
+11-19 10:18:12.335   792  1025 E OMX-VENC: ERROR: Unsupported H.264 level= 0
+11-19 10:18:12.339 24604 24708 I ACodec  : setupAVCEncoderParameters with [profile: Main] [level: Level3]
+11-19 10:18:12.346 24604 24708 I ACodec  : [OMX.qcom.video.encoder.avc] cannot encode HDR static metadata. Ignoring.
+11-19 10:18:12.346 24604 24708 I ACodec  : setupVideoEncoder succeeded
+11-19 10:18:12.346 24604 24708 I ExtendedACodec: [OMX.qcom.video.encoder.avc] configure, AMessage : AMessage(what = 'conf', target = 1) = {
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   string mime = "video/avc"
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t frame-rate = 30
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t color-format = 2130708361
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t profile = 2
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t height = 1280
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t width = 768
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t bitrate = 3932160
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t i-frame-interval = 1
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t level = 256
+11-19 10:18:12.346 24604 24708 I ExtendedACodec:   int32_t encoder = 1
+11-19 10:18:12.346 24604 24708 I ExtendedACodec: }
+11-19 10:18:12.353 24604 24708 W ACodec  : do not know color format 0x7f000789 = 2130708361
+11-19 10:18:12.362  1497 21796 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_DEVICE_STATS ; uid = 10106
+11-19 10:18:12.364   792  9633 E OMX-VENC: Does not handle dataspace request
+11-19 10:18:12.365   792  9633 E OMXNodeInstance: getConfig(31806b5:qcom.encoder.avc, ??(0x7f000062)) ERROR: UnsupportedSetting(0x80001019)
+11-19 10:18:12.369   792  9633 D GraphicBufferSource: setting dataspace: 0x104
+11-19 10:18:12.370   792  9633 E OMXNodeInstance: getParameter(31806b5:qcom.encoder.avc, ParamConsumerUsageBits(0x6f800004)) ERROR: UnsupportedIndex(0x8000101a)
+11-19 10:18:12.370   792  9634 D GraphicBufferSource: requesting color aspects (R:2(Limited), P:1(BT709_5), M:1(BT709_5), T:3(SMPTE170M))
+11-19 10:18:12.376   797  1735 I MediaPlayerService: MediaPlayerService::getOMX
+11-19 10:18:12.377 24604 24716 I OMXClient: MuxOMX ctor
+11-19 10:18:12.381   792  1896 I OMXMaster: makeComponentInstance(OMX.google.aac.encoder) in mediacodec process
+11-19 10:18:12.522   792 24713 D GraphicBufferSource: got buffer with new dataSpace #104
+11-19 10:18:12.522   792 24713 I OMX-VENC: get_config (dataspace changed): ColorSpace: Recommend 601-limited for RGBA8888
+11-19 10:18:12.522   792 24713 D GraphicBufferSource: Codec resolved it to (R:2(Limited), P:3(BT601_6_625), M:3(BT601_6), T:3(SMPTE170M)) err=0(NO_ERROR)
+11-19 10:18:12.522   792 24713 I OMX-VENC: open Color conv forW: 768, H: 1280
+11-19 10:18:12.522 24604 24708 D ACodec  : dataspace changed to 0x10c10000 (R:2(Limited), P:3(BT601_6_625), M:3(BT601_6), T:3(SMPTE170M)) (R:2(Limited), S:1(BT709), T:3(SMPTE_170M))
+11-19 10:18:12.623 24604 24720 I MPEG4Writer: limits: 4294967295/0 bytes/us, bit rate: -1 bps and the estimated moov size 3195 bytes
+11-19 10:18:12.625 24604 24724 I MPEG4Writer: setStartTimestampUs: 0
+11-19 10:18:12.626 24604 24724 I MPEG4Writer: Earliest track starting time: 0
+11-19 10:18:12.627 24604 24725 I MPEG4Writer: setStartTimestampUs: 0
+11-19 10:18:12.627 24604 24720 E zzz     : VideoTime = 0.0
+11-19 10:18:12.628 24604 24720 E zzz     : time = 0
+11-19 10:18:12.629 24604 24720 E zzz     : VideoTime = 0.0
+11-19 10:18:12.630 24604 24720 E zzz     : time = 0
+11-19 10:18:12.640  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:12.640  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:12.640  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:12.640  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:12.646 24604 24726 E zzz     : buffer:7056 size:7056
+--------- beginning of crash
+11-19 10:18:12.648 24604 24726 E AndroidRuntime: FATAL EXCEPTION: Thread-8
+11-19 10:18:12.648 24604 24726 E AndroidRuntime: Process: com.zzw.live, PID: 24604
+11-19 10:18:12.648 24604 24726 E AndroidRuntime: java.nio.BufferOverflowException
+11-19 10:18:12.648 24604 24726 E AndroidRuntime: 	at java.nio.DirectByteBuffer.put(DirectByteBuffer.java:264)
+11-19 10:18:12.648 24604 24726 E AndroidRuntime: 	at java.nio.ByteBuffer.put(ByteBuffer.java:642)
+11-19 10:18:12.648 24604 24726 E AndroidRuntime: 	at com.zzw.live.encodec.BaseVideoEncoder.putPcmData(BaseVideoEncoder.java:183)
+11-19 10:18:12.648 24604 24726 E AndroidRuntime: 	at com.zzw.live.RecodeActivity$PutPcmThread.run(RecodeActivity.java:123)
+11-19 10:18:12.652  1497  2621 W ActivityManager:   Force finishing activity com.zzw.live/.RecodeActivity
+11-19 10:18:12.654  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:12.655 24604 24720 E zzz     : VideoTime = 0.089706
+11-19 10:18:12.655 24604 24720 E zzz     : time = 0
+11-19 10:18:12.656  1497  2621 D ActivityTrigger: ActivityTrigger activityPauseTrigger 
+11-19 10:18:12.657  1497  2621 D PowerManagerService: acquireWakeLockInternal: lock=19165590, flags=0x1, tag="*launch*", ws=WorkSource{10106}, uid=1000, pid=1497
+11-19 10:18:12.658 24604 24604 V Activity: onPause com.zzw.live.RecodeActivity@b0e51b getComponentName()=ComponentInfo{com.zzw.live/com.zzw.live.RecodeActivity}
+11-19 10:18:12.658 24604 24726 I Process : Sending signal. PID: 24604 SIG: 9
+11-19 10:18:12.663  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:12.666  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:12.714  1497  2735 I WindowManager: WIN DEATH: Window{9eef363 u0 com.zzw.live/com.zzw.live.RecodeActivity}
+11-19 10:18:12.714  1497  2735 W WindowManager: Force-removing child win Window{c6dd678 u0 SurfaceView - com.zzw.live/com.zzw.live.RecodeActivity} from container Window{9eef363 u0 com.zzw.live/com.zzw.live.RecodeActivity}
+11-19 10:18:12.715  1497  2649 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_DEVICE_STATS ; uid = 1047
+11-19 10:18:12.715   792 15197 E OMXNodeInstance: !!! Observer died. Quickly, do something, ... anything...
+11-19 10:18:12.716  7034 24692 E Surface : queueBuffer: error queuing buffer to SurfaceTexture, -32
+11-19 10:18:12.716  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.717  7034 24692 E Camera3-OutputStream: returnBufferCheckedLocked: Stream 0: Error queueing buffer to native window: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.717  7034 24692 E Camera3-Device: Can't return buffer to its stream: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.717  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.717  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.717  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.717  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.717  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.717  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.718  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.718  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.718  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.718  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.718  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.718  1497 30584 D GraphicsStats: Buffer count: 13
+11-19 10:18:12.718  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.718  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.719  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.719  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.719  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.719  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.719  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.719  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.719  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.719  1497  2765 I ActivityManager: Process com.zzw.live (pid 24604) has died
+11-19 10:18:12.719  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.719  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.720  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.720  1497  2765 D ActivityManager: cleanUpApplicationRecord -- 24604
+11-19 10:18:12.720  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.720  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.720  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.720  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.720  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.720  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.720  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.720  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.721  7034  7034 E Camera2Client: notifyError: Error condition 0 reported by HAL, requestId -1
+11-19 10:18:12.721  7034 24683 E Camera3-OutputStream: getBufferLocked: Stream 0: Can't dequeue next output buffer: Broken pipe (-32)
+11-19 10:18:12.721  7034 24683 E Camera3-Device: RequestThread: Can't get output buffer, skipping request: Broken pipe (-32)
+11-19 10:18:12.721  7034 24683 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.721   792  1861 E OMXNodeInstance: !!! Observer died. Quickly, do something, ... anything...
+11-19 10:18:12.722  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:12.722  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:12.723   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000009
+11-19 10:18:12.723   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-OFF on stream 0x10003 stream type=11
+11-19 10:18:12.724   821 24676 I mm-camera: <IFACE >< INFO> 1619: iface_streamoff_to_thread: iface_streamoff_to_thread: E, session id = 1, user stream id = 3
+11-19 10:18:12.725   821 24659 I mm-camera: <IFACE >< INFO> 2211: iface_streamoff: E, session_id 1 mct_stream_id = 3
+11-19 10:18:12.725   821 24659 I mm-camera: <IFACE >< INFO> 10978: iface_util_get_user_streams_by_bundle: streamoff, first bundled streamoff all bindled streams!
+11-19 10:18:12.727  1497 19282 W WindowManager: Failed looking up window
+11-19 10:18:12.727  1497 19282 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@a77fb60 does not exist
+11-19 10:18:12.727  1497 19282 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:9446)
+11-19 10:18:12.727  1497 19282 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:9437)
+11-19 10:18:12.727  1497 19282 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1800)
+11-19 10:18:12.727  1497 19282 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:688)
+11-19 10:18:12.727  1497 19282 I WindowManager: WIN DEATH: null
+11-19 10:18:12.729  3328  3335 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.729  1497 19281 I WindowManager: WIN DEATH: Window{17db065 u0 com.zzw.live/com.zzw.live.MainActivity}
+11-19 10:18:12.731   821 24659 I mm-camera: <IFACE >< INFO> 2401: iface_streamoff: session_id = 1, active_streams = 0
+11-19 10:18:12.731   821 24659 I mm-camera: <IFACE >< INFO> 2483: iface_streamoff: X
+11-19 10:18:12.731   821 24676 I mm-camera: <IFACE >< INFO> 1645: iface_streamoff_to_thread: iface_streamoff_to_thread: X, session id = 1, user stream id = 3
+11-19 10:18:12.731   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-OFF success for stream 0x10003, stream type=11
+11-19 10:18:12.733  1497  2765 I PackageManager:  checkUidPermission permName = android.permission.WRITE_MEDIA_STORAGE ; uid = 10106
+11-19 10:18:12.733  1497  2765 I PackageManager:  checkUidPermission permName = android.permission.READ_EXTERNAL_STORAGE ; uid = 10106
+11-19 10:18:12.733  1497  2765 I PackageManager:  checkUidPermission permName = android.permission.WRITE_EXTERNAL_STORAGE ; uid = 10106
+11-19 10:18:12.736   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000009
+11-19 10:18:12.736   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-OFF on stream 0x10002 stream type=1
+11-19 10:18:12.744   821 24676 I mm-camera: <CPP   >< INFO> 3927: cpp_module_handle_streamoff_event: info: doing stream-off for identity 0x10002
+11-19 10:18:12.745   821 24663 I mm-camera: <CPP   >< INFO> 359: cpp_hardware_set_clock: Set clock 100000000 BW avg 0 BW inst 0
+11-19 10:18:12.745   821 24676 I mm-camera: <CPP   >< INFO> 4112: cpp_module_handle_streamoff_event: info: stream-off done for identity 0x10002
+11-19 10:18:12.746   821 24676 I mm-camera: <IFACE >< INFO> 1619: iface_streamoff_to_thread: iface_streamoff_to_thread: E, session id = 1, user stream id = 2
+11-19 10:18:12.746   821 24659 I mm-camera: <IFACE >< INFO> 2211: iface_streamoff: E, session_id 1 mct_stream_id = 2
+11-19 10:18:12.746   821 24659 I mm-camera: <IFACE >< INFO> 10984: iface_util_get_user_streams_by_bundle: skip streamoff! left 0 bundled streamoff, mct stream id 2total bundled stream num = 2
+11-19 10:18:12.747   821 24659 I mm-camera: <IFACE >< INFO> 2420: iface_streamoff: session id = 0x1,Delta between vfe irqs 0 sec 0 usec
+11-19 10:18:12.750   821 24659 I mm-camera: <IFACE >< INFO> 10029: iface_util_release_resource: camif_cnt= 0, rdi_cnt= 0, used mask 10000
+11-19 10:18:12.751   821 24659 I mm-camera: <IFACE >< INFO> 2478: iface_streamoff: all bundled stream streamoff, clear hal bundled mask
+11-19 10:18:12.751   821 24659 I mm-camera: <IFACE >< INFO> 2483: iface_streamoff: X
+11-19 10:18:12.751   821 24676 I mm-camera: <IFACE >< INFO> 1645: iface_streamoff_to_thread: iface_streamoff_to_thread: X, session id = 1, user stream id = 2
+11-19 10:18:12.751   821 24676 I mm-camera: <MCT   >< INFO> 177: stop_sof_check_thread: Stopping SOF timeout thread session =1
+11-19 10:18:12.752   821 24701 I mm-camera: <MCT   >< INFO> 114: mct_bus_sof_thread_run: Closing SOF tracker thread
+11-19 10:18:12.752   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-OFF success for stream 0x10002, stream type=1
+11-19 10:18:12.753   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000009
+11-19 10:18:12.753   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-OFF on stream 0x10001 stream type=7
+11-19 10:18:12.753   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-OFF success for stream 0x10001, stream type=7
+11-19 10:18:12.764  1497  2765 I ActivityManager: Start proc 24728:com.zzw.live/u0a106 for activity com.zzw.live/.MainActivity
+11-19 10:18:12.764  1497  2765 V BoostFramework: BoostFramework() : mPerf = com.qualcomm.qti.Performance@7dd3db6
+11-19 10:18:12.769   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000019
+11-19 10:18:12.770   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000019
+11-19 10:18:12.770  7034  7034 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.770  7034  7034 W Camera3-OutputStream: A frame is dropped for stream 0
+11-19 10:18:12.770  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10106
+11-19 10:18:12.770  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10106
+11-19 10:18:12.770  7034  7034 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.770  7034  7034 W Camera3-OutputStream: A frame is dropped for stream 0
+11-19 10:18:12.770  7034  7034 W Camera2Client: notifyError: Received recoverable error 3 from HAL - ignoring, requestId 10000001
+11-19 10:18:12.770  7034  7034 W Camera3-OutputStream: A frame is dropped for stream 0
+11-19 10:18:12.775  2561  2568 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.782 24728 24728 I art     : Late-enabling -Xcheck:jni
+11-19 10:18:12.812  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10106
+11-19 10:18:12.813  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10106
+11-19 10:18:12.814  2819  2827 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.823  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:12.826  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:12.838   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000008
+11-19 10:18:12.838   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-ON on stream 0x10001 stream type=7
+11-19 10:18:12.838   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-ON success for stream 0x10001, stream type=7
+11-19 10:18:12.839   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000008
+11-19 10:18:12.840   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-ON on stream 0x10002 stream type=1
+11-19 10:18:12.840   821 24676 I mm-camera: <SENSOR>< INFO> 3667: sensor_get_resolution_info: sensor info: name: imx214, res: 1, max_fps: 30.000000, w: 4096, h: 2160 op pix clk: 465000000, FLL: 3194, LLPCK: 5008, mode: 1, PDAF support: 0
+11-19 10:18:12.841   821 24676 E mm-camera: <STATS_AF ><ERROR> 3167: af_port_handle_sensor_update: Depth_Err: actuator sensitivity: 0.000000 is invalid
+11-19 10:18:12.841   821 24676 I mm-camera: <CPP   >< INFO> 1734: cpp_module_handle_stream_cfg_event: frame_offset=2, input_fps=30.00, identity=0x1000f
+11-19 10:18:12.841   821 24676 I mm-camera: <CPP   >< INFO> 1734: cpp_module_handle_stream_cfg_event: frame_offset=2, input_fps=30.00, identity=0x10002
+11-19 10:18:12.842  2948  2956 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.843   821 24672 I mm-camera: <STATS_AF >< INFO> 1277: af_haf_update_tuning_data: Setting default init pos to far end
+11-19 10:18:12.843   821 24676 I mm-camera: <IFACE >< INFO> 409: iface_util_dump_sensor_cfg: iface_util_dump_sensor_cfg: sensor dim: width = 4096, heght = 2160, fmt = 30, is_bayer = 1, init_skip = 1
+11-19 10:18:12.848   821 24676 E mm-camera: <IFACE ><ERROR> 4075: iface_util_set_hw_stream_config_pix: iface_util_set_hw_stream_config_pix: Assigned vfe 1 intf 0 for related cam type 1
+11-19 10:18:12.848   821 24676 I mm-camera: <IFACE >< INFO> 3573: iface_util_dump_isp_resource_request:  =====DUMP RESOURCE: PIX STREAM=== 
+11-19 10:18:12.848   821 24676 I mm-camera: <IFACE >< INFO> 3574: iface_util_dump_isp_resource_request: num pix stream = 1
+11-19 10:18:12.849   821 24676 I mm-camera: <IFACE >< INFO> 3577: iface_util_dump_isp_resource_request: num_isp = 1, isp_mask = 2, request_op_pix_clk = 0
+11-19 10:18:12.849   821 24676 I mm-camera: <IFACE >< INFO> 3581: iface_util_dump_isp_resource_request: ispif stripe info: split 0, overlap 0, stripe offset 0
+11-19 10:18:12.849   821 24676 I mm-camera: <IFACE >< INFO> 3584: iface_util_dump_isp_resource_request: pix stream 0
+11-19 10:18:12.849   821 24676 I mm-camera: <IFACE >< INFO> 3587: iface_util_dump_isp_resource_request: num mct stream mapped = 2(Mapped stream ID[0] = 2)
+11-19 10:18:12.849   821 24676 I mm-camera: <IFACE >< INFO> 3590: iface_util_dump_isp_resource_request: axi path = 1(ENC-0/VIEW-1/CAMIF-2/IDEAL-3), cam_fmt 7
+11-19 10:18:12.849   821 24676 I mm-camera: <IFACE >< INFO> 3612: iface_util_dump_isp_resource_request: num STATS stream = 5
+11-19 10:18:12.849   821 24676 I mm-camera: <CPP   >< INFO> 865: cpp_module_handle_isp_out_dim_event: [STREAM_PARAMS]  stream type 1, width 1456, height 768,stride 1472, scanline 768, planes 2
+11-19 10:18:12.849   821 24676 I mm-camera: <CPP   >< INFO> 884: cpp_module_handle_isp_out_dim_event: [STREAM_PARAMS] plane 0, stride 1472, scanline 768, offset_x 0, offset_y 0, len 1130496, offset:0
+11-19 10:18:12.849   821 24676 I mm-camera: <CPP   >< INFO> 884: cpp_module_handle_isp_out_dim_event: [STREAM_PARAMS] plane 1, stride 1472, scanline 768, offset_x 0, offset_y 0, len 565248, offset:0
+11-19 10:18:12.852   821 24676 I mm-camera: <IFACE >< INFO> 8887: iface_util_dump_camif_cfg: =====Camif DUMP cfg for PIX interface====
+11-19 10:18:12.852   821 24676 I mm-camera: <IFACE >< INFO> 8889: iface_util_dump_camif_cfg: camif input type = 3(MIPI=3), op_pix_clk = 465000000
+11-19 10:18:12.852   821 24676 I mm-camera: <IFACE >< INFO> 8891: iface_util_dump_camif_cfg: camif pix_pattern(RGRG-0/GRGR-1/BGBG-2/GBGB-3) = 0
+11-19 10:18:12.852   821 24676 I mm-camera: <IFACE >< INFO> 8893: iface_util_dump_camif_cfg: camif first_pix = 0, last_pix = 4095
+11-19 10:18:12.852   821 24676 I mm-camera: <IFACE >< INFO> 8895: iface_util_dump_camif_cfg: camif first_line = 0, last_line = 2159
+11-19 10:18:12.852   821 24676 I mm-camera: <IFACE >< INFO> 8897: iface_util_dump_camif_cfg: camif pixels_per_line = 4096, lines_per_frame = 2160
+11-19 10:18:12.852   821 24676 I mm-camera: <IFACE >< INFO> 8901: iface_util_dump_camif_cfg: camif irq subsample pattern = 0, period = 0 sof_step 1
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 549: iface_dump_axi_plane_config: === AXI DUMP: VFE session_id 1, hw_stream_id 10002 ===
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 553: iface_dump_axi_plane_config:     AXI DUMP Axi_src: VIEWFINDER hw_stream width 1456, height 768
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 555: iface_dump_axi_plane_config: need buf divert = 1, burst count = 0
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 558: iface_dump_axi_plane_config: hfr mode = 0, skip pattern = 0, init_frame_drop = 1
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 591: iface_dump_axi_plane_config: plane[0]: plane_fmt 0(Y-0/CB-1/Cr-2/CrCb-3/CbCr-4)
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 593: iface_dump_axi_plane_config: plane[0]: width = 1456, height = 768
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 595: iface_dump_axi_plane_config: plane[0]: stride = 1472, scanlines = 768
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 597: iface_dump_axi_plane_config: plane[0]: address_offset 0
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 591: iface_dump_axi_plane_config: plane[1]: plane_fmt 4(Y-0/CB-1/Cr-2/CrCb-3/CbCr-4)
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 593: iface_dump_axi_plane_config: plane[1]: width = 1456, height = 384
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 595: iface_dump_axi_plane_config: plane[1]: stride = 1472, scanlines = 384
+11-19 10:18:12.853   821 24748 I mm-camera: <IFACE >< INFO> 597: iface_dump_axi_plane_config: plane[1]: address_offset 0
+11-19 10:18:12.856   654   734 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+11-19 10:18:12.861   821 24676 I mm-camera: <IFACE >< INFO> 1562: iface_streamon_to_thread: iface_streamon_to_thread: E, session id = 1, user stream id = 2
+11-19 10:18:12.861   821 24659 I mm-camera: <IFACE >< INFO> 1907: iface_streamon: E, session_id 1 mct_stream_id = 2
+11-19 10:18:12.861   821 24659 I mm-camera: <IFACE >< INFO> 10970: iface_util_get_user_streams_by_bundle: got No.1 bundled streamon, mct stream id 2total bundled stream num = 2
+11-19 10:18:12.861   821 24676 I mm-camera: <ISP   >< INFO> 3632: mesh_rolloff40_normalize_table: full 4096 2160 out 4096 2160 offset 0 0 scale 1
+11-19 10:18:12.866   821 24673 I mm-camera: <ISP   >< INFO> 90: rs_stats44_stats_config_update: warning: max_support_h_rgn invalid 8
+11-19 10:18:12.867   821 24676 I mm-camera: <CPP   >< INFO> 3836: cpp_module_handle_streamon_event: identity=0x10002, stream-on done
+11-19 10:18:12.867   821 24676 I mm-camera: <IFACE >< INFO> 1593: iface_streamon_to_thread: iface_streamon_to_thread: X, session id = 1, user stream id = 2
+11-19 10:18:12.868   821 24676 I mm-camera: <MCT   >< INFO> 154: start_sof_check_thread: Starting SOF timeout thread session id =1
+11-19 10:18:12.869   821 24663 I mm-camera: <CPP   >< INFO> 359: cpp_hardware_set_clock: Set clock 100000000 BW avg 106831872 BW inst 106831872
+11-19 10:18:12.872   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-ON success for stream 0x10002, stream type=1
+11-19 10:18:12.873   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000008
+11-19 10:18:12.873   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-ON on stream 0x10003 stream type=11
+11-19 10:18:12.873   821 24676 I mm-camera: <IFACE >< INFO> 1562: iface_streamon_to_thread: iface_streamon_to_thread: E, session id = 1, user stream id = 3
+11-19 10:18:12.873   821 24659 I mm-camera: <IFACE >< INFO> 1907: iface_streamon: E, session_id 1 mct_stream_id = 3
+11-19 10:18:12.873   821 24659 I mm-camera: <IFACE >< INFO> 10964: iface_util_get_user_streams_by_bundle: streamon, got all bundled streamon!
+11-19 10:18:12.874   821 24673 I mm-camera: <ISP   >< INFO> 90: rs_stats44_stats_config_update: warning: max_support_h_rgn invalid 8
+11-19 10:18:12.874   821 24676 E mm-camera: <IMGLIB><ERROR> 318: faceproc_comp_set_param: Error param=521
+11-19 10:18:12.874   821 24676 E mm-camera: <IMGLIB><ERROR> 3396: module_faceproc_client_exec: rc -4
+11-19 10:18:12.879   821 24676 I mm-camera: <ISP   >< INFO> 451: be_stats44_trigger_update: warning: Denomitor is zero hnum 0 vnum 0
+11-19 10:18:12.891 21509 21516 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.909   821 24659 I mm-camera: <IFACE >< INFO> 2173: iface_streamon: X
+11-19 10:18:12.909   821 24676 I mm-camera: <IFACE >< INFO> 1593: iface_streamon_to_thread: iface_streamon_to_thread: X, session id = 1, user stream id = 3
+11-19 10:18:12.909   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-ON success for stream 0x10003, stream type=11
+11-19 10:18:12.916 28810 28817 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.932  2011  2011 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-42,lastModified=11-19 10:18:11,ssid="gyt"
+11-19 10:18:12.932  2011  2011 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-42,lastModified=11-19 10:18:11,ssid="gyt"
+11-19 10:18:12.932  2011  2011 D WifiSignalController: notifyListeners visibleWhenEnabled=false wifiVisible=true
+11-19 10:18:12.932  2011  2011 D HyteraStatusBarWifiView: setWifiIndicators mWifiVisible=true
+11-19 10:18:12.932  2011  2011 D wifiview: HyteraStatusBarWifiView apply() NrmUtils.hideWlanMenu()=false
+11-19 10:18:12.932  1497 23903 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:12.933  1497  2204 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10035
+11-19 10:18:12.933  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:12.934  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:12.934  1497  5623 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:12.935  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:12.935  1497  2590 I PackageManager:  checkUidPermission permName = android.permission.ACCESS_WIFI_STATE ; uid = 10035
+11-19 10:18:12.935  2011  2011 D WifiTile: setWifiIndicators enabled=true oldWifiEnable=true description="gyt" connectedString="gyt" getWifiState=3 needshow=false mEnable=false
+11-19 10:18:12.935  2011  2011 D PhoneStatusBar: ~~~~~~~~~~setIcon slot=wifi
+11-19 10:18:12.935  2011  2011 D StatusBarIconController: applyIconTint
+11-19 10:18:12.936  2011  2011 D SignalClusterView: setIconTint changed=false
+11-19 10:18:12.940   821 24747 I mm-camera: <ISP   >< INFO> 1260: isp_handler_module_handle_reg_update:  Warning! Invalid reg_update state 0
+11-19 10:18:12.944  2189  2196 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.957 24728 24728 W System  : ClassLoader referenced unknown path: /data/app/com.zzw.live-2/lib/arm64
+11-19 10:18:12.966  7034  7034 W Camera3-OutputStream: disconnectLocked: While disconnecting stream 0 from native window, the native window died from under us
+11-19 10:18:12.966  7034  7034 I Camera3-Device: disconnect: E
+11-19 10:18:12.967  7034  7034 I QCamera : <HAL><INFO> static int qcamera::QCamera3HardwareInterface::close_camera_device(struct hw_device_t *): 10823: [KPI Perf]: E camera id 0
+11-19 10:18:12.967  7034  7034 I QTI PowerHAL: Got process_video_encode_hint
+11-19 10:18:12.971  2575  2582 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:12.972   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000009
+11-19 10:18:12.972   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-OFF on stream 0x10003 stream type=11
+11-19 10:18:12.973   821 24676 I mm-camera: <IFACE >< INFO> 1619: iface_streamoff_to_thread: iface_streamoff_to_thread: E, session id = 1, user stream id = 3
+11-19 10:18:12.973   821 24659 I mm-camera: <IFACE >< INFO> 2211: iface_streamoff: E, session_id 1 mct_stream_id = 3
+11-19 10:18:12.973   821 24659 I mm-camera: <IFACE >< INFO> 10978: iface_util_get_user_streams_by_bundle: streamoff, first bundled streamoff all bindled streams!
+11-19 10:18:12.976   821 24659 I mm-camera: <IFACE >< INFO> 2401: iface_streamoff: session_id = 1, active_streams = 0
+11-19 10:18:12.976   821 24659 I mm-camera: <IFACE >< INFO> 2483: iface_streamoff: X
+11-19 10:18:12.976   821 24676 I mm-camera: <IFACE >< INFO> 1645: iface_streamoff_to_thread: iface_streamoff_to_thread: X, session id = 1, user stream id = 3
+11-19 10:18:12.976   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-OFF success for stream 0x10003, stream type=11
+11-19 10:18:12.976  1497  2771 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS_FULL ; uid = 10106
+11-19 10:18:12.976  1497  2771 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10106
+11-19 10:18:12.976  1497  2771 I PackageManager:  checkUidPermission permName = android.permission.GET_TASKS ; uid = 10106
+11-19 10:18:12.977   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000009
+11-19 10:18:12.977   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-OFF on stream 0x10002 stream type=1
+11-19 10:18:12.977 24728 24728 I InstantRun: starting instant run server: is main process
+11-19 10:18:12.980   821 24676 I mm-camera: <CPP   >< INFO> 3927: cpp_module_handle_streamoff_event: info: doing stream-off for identity 0x10002
+11-19 10:18:12.982   821 24663 I mm-camera: <CPP   >< INFO> 359: cpp_hardware_set_clock: Set clock 100000000 BW avg 0 BW inst 0
+11-19 10:18:12.983   821 24676 I mm-camera: <CPP   >< INFO> 4112: cpp_module_handle_streamoff_event: info: stream-off done for identity 0x10002
+11-19 10:18:12.983   821 24676 I mm-camera: <IFACE >< INFO> 1619: iface_streamoff_to_thread: iface_streamoff_to_thread: E, session id = 1, user stream id = 2
+11-19 10:18:12.983   821 24659 I mm-camera: <IFACE >< INFO> 2211: iface_streamoff: E, session_id 1 mct_stream_id = 2
+11-19 10:18:12.983   821 24659 I mm-camera: <IFACE >< INFO> 10984: iface_util_get_user_streams_by_bundle: skip streamoff! left 0 bundled streamoff, mct stream id 2total bundled stream num = 2
+11-19 10:18:12.984   821 24659 I mm-camera: <IFACE >< INFO> 2420: iface_streamoff: session id = 0x1,Delta between vfe irqs 0 sec 0 usec
+11-19 10:18:12.986   821 24659 I mm-camera: <IFACE >< INFO> 10029: iface_util_release_resource: camif_cnt= 0, rdi_cnt= 0, used mask 10000
+11-19 10:18:12.988   821 24659 I mm-camera: <IFACE >< INFO> 2478: iface_streamoff: all bundled stream streamoff, clear hal bundled mask
+11-19 10:18:12.988   821 24659 I mm-camera: <IFACE >< INFO> 2483: iface_streamoff: X
+11-19 10:18:12.988   821 24676 I mm-camera: <IFACE >< INFO> 1645: iface_streamoff_to_thread: iface_streamoff_to_thread: X, session id = 1, user stream id = 2
+11-19 10:18:12.988   821 24676 I mm-camera: <MCT   >< INFO> 177: stop_sof_check_thread: Stopping SOF timeout thread session =1
+11-19 10:18:12.988   821 24749 I mm-camera: <MCT   >< INFO> 114: mct_bus_sof_thread_run: Closing SOF tracker thread
+11-19 10:18:12.988   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-OFF success for stream 0x10002, stream type=1
+11-19 10:18:12.989   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=8000009
+11-19 10:18:12.989   821 24676 I mm-camera: <MCT   >< INFO> 3812: mct_pipeline_process_set:  STREAM-OFF on stream 0x10001 stream type=7
+11-19 10:18:12.990   821 24676 I mm-camera: <MCT   >< INFO> 3827: mct_pipeline_process_set:  STREAM-OFF success for stream 0x10001, stream type=7
+11-19 10:18:12.999   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=800000b
+11-19 10:18:12.999   821 24676 I mm-camera: <MCT   >< INFO> 3892: mct_pipeline_process_set: Issuing DEL_STREAM on stream 0x10002 and stream type=1
+11-19 10:18:12.999   821 24676 I mm-camera: <IFACE >< INFO> 671: iface_unreserve_sink_port: stream_id 2 mode 0 
+11-19 10:18:12.999   821 24676 I mm-camera: <ISP   >< INFO> 890: isp_port_check_caps_unreserve: ide 10002 port 0xf17f9fc0
+11-19 10:18:13.000   821 24676 I mm-camera: <MCT   >< INFO> 3903: mct_pipeline_process_set: Stream 0x10002 and stream type=1, successfully deleted
+11-19 10:18:13.001   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=800000b
+11-19 10:18:13.001   821 24676 I mm-camera: <MCT   >< INFO> 3892: mct_pipeline_process_set: Issuing DEL_STREAM on stream 0x10003 and stream type=11
+11-19 10:18:13.001   821 24676 I mm-camera: <IFACE >< INFO> 671: iface_unreserve_sink_port: stream_id 3 mode 0 
+11-19 10:18:13.001   821 24676 I mm-camera: <ISP   >< INFO> 890: isp_port_check_caps_unreserve: ide 10003 port 0xf17f9fc0
+11-19 10:18:13.001   821 24676 I mm-camera: <MCT   >< INFO> 3903: mct_pipeline_process_set: Stream 0x10003 and stream type=11, successfully deleted
+11-19 10:18:13.002   821 24676 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=800000b
+11-19 10:18:13.002   821 24676 I mm-camera: <MCT   >< INFO> 3892: mct_pipeline_process_set: Issuing DEL_STREAM on stream 0x10001 and stream type=7
+11-19 10:18:13.002   821 24676 I mm-camera: <MCT   >< INFO> 3903: mct_pipeline_process_set: Stream 0x10001 and stream type=7, successfully deleted
+11-19 10:18:13.002   821 24676 I mm-camera: <ISP   >< INFO> 6629: isp_util_print_meta_stream_info: Deallocate resources
+11-19 10:18:13.005   821 24676 I mm-camera: <ISP   >< INFO> 2537: isp_resource_allocate: INFO: ISP resource acquired: session 1 num_isp 1
+11-19 10:18:13.006   821 24676 I mm-camera: <ISP   >< INFO> 2539: isp_resource_allocate: INFO: ISP resource acquired: hw_id 1
+11-19 10:18:13.006   821 24676 I mm-camera: <ISP   >< INFO> 6479: isp_util_decide_stream_mapping: stream_port_map num streams 0
+11-19 10:18:13.006   821 24676 E mm-camera: <MCT   ><ERROR> 1082: mct_pipeline_decide_hw_wakeup: Couldn't find meta stream
+11-19 10:18:13.010  7034  7034 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::closeCamera(): 882: [KPI Perf]: E PROFILE_CLOSE_CAMERA camera id 0
+11-19 10:18:13.011   821   821 I mm-camera: <MCT   >< INFO> 216: mct_controller_destroy: Initiating destroy sequence for session = 1
+11-19 10:18:13.012   821   821 I mm-camera: <MCT   >< INFO> 234: mct_controller_destroy: serv_thread closed
+11-19 10:18:13.012   821   821 I mm-camera: <MCT   >< INFO> 249: mct_controller_destroy: bus_handler thread closed
+11-19 10:18:13.012   821   821 I mm-camera: <MCT   >< INFO> 4633: mct_pipeline_stop_session: Initiating stop_session on session 1
+11-19 10:18:13.012   821   821 I mm-camera: <MCT   >< INFO> 3674: mct_pipeline_process_set: command=800000b
+11-19 10:18:13.012   821   821 I mm-camera: <MCT   >< INFO> 3892: mct_pipeline_process_set: Issuing DEL_STREAM on stream 0x1000f and stream type=10
+11-19 10:18:13.012   821   821 I mm-camera: <IFACE >< INFO> 671: iface_unreserve_sink_port: stream_id f mode 0 
+11-19 10:18:13.013   821   821 I mm-camera: <ISP   >< INFO> 890: isp_port_check_caps_unreserve: ide 1000f port 0xf17f9fc0
+11-19 10:18:13.015   821   821 I mm-camera: <MCT   >< INFO> 3903: mct_pipeline_process_set: Stream 0x1000f and stream type=10, successfully deleted
+11-19 10:18:13.015   821 24756 I mm-camera: <MCT   >< INFO> 4367: mct_pipeline_stop_session_thread: Stop module name: sensor - E
+11-19 10:18:13.015 22166 22173 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.016   821 24757 I mm-camera: <MCT   >< INFO> 4367: mct_pipeline_stop_session_thread: Stop module name: iface - E
+11-19 10:18:13.018   821 24757 I mm-camera: <MCT   >< INFO> 4375: mct_pipeline_stop_session_thread: Stop module name: iface - X
+11-19 10:18:13.018   821 24758 I mm-camera: <MCT   >< INFO> 4367: mct_pipeline_stop_session_thread: Stop module name: isp - E
+11-19 10:18:13.018   821 24758 I mm-camera: <ISP   >< INFO> 491: isp_module_stop_session: session id 1
+11-19 10:18:13.018   821 24758 I mm-camera: <ISP   >< INFO> 532: isp_module_stop_session: warning: ISP resource is not freed on time!
+11-19 10:18:13.019   821 24759 I mm-camera: <MCT   >< INFO> 4367: mct_pipeline_stop_session_thread: Stop module name: stats - E
+11-19 10:18:13.029   821 24760 I mm-camera: <MCT   >< INFO> 4367: mct_pipeline_stop_session_thread: Stop module name: pproc - E
+11-19 10:18:13.030   821 24761 I mm-camera: <MCT   >< INFO> 4367: mct_pipeline_stop_session_thread: Stop module name: imglib - E
+11-19 10:18:13.030   821   821 I mm-camera: <MCT   >< INFO> 4655: mct_pipeline_stop_session: Modules left: 5
+11-19 10:18:13.031   821 24761 I mm-camera: <MCT   >< INFO> 4375: mct_pipeline_stop_session_thread: Stop module name: imglib - X
+11-19 10:18:13.031   821   821 I mm-camera: <MCT   >< INFO> 4655: mct_pipeline_stop_session: Modules left: 4
+11-19 10:18:13.031   821 24760 D QCameraQuadraCfa: int img_algo_shutdown(img_frame_ops_t*):147 : E
+11-19 10:18:13.031   821 24760 E quadracfa_dummy: inside dummy remosaic_deinit 1
+11-19 10:18:13.031   821 24760 D QCameraQuadraCfa: int img_algo_shutdown(img_frame_ops_t*):151 : X
+11-19 10:18:13.031   821 24760 I mm-camera: <MCT   >< INFO> 4375: mct_pipeline_stop_session_thread: Stop module name: pproc - X
+11-19 10:18:13.032   821   821 I mm-camera: <MCT   >< INFO> 4655: mct_pipeline_stop_session: Modules left: 3
+11-19 10:18:13.033   821 24758 I mm-camera: <MCT   >< INFO> 4375: mct_pipeline_stop_session_thread: Stop module name: isp - X
+11-19 10:18:13.033   821   821 I mm-camera: <MCT   >< INFO> 4655: mct_pipeline_stop_session: Modules left: 2
+11-19 10:18:13.034   821 24759 I mm-camera: <MCT   >< INFO> 4375: mct_pipeline_stop_session_thread: Stop module name: stats - X
+11-19 10:18:13.035   821   821 I mm-camera: <MCT   >< INFO> 4655: mct_pipeline_stop_session: Modules left: 1
+11-19 10:18:13.060 19863 19870 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.061 24728 24728 W art     : Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+11-19 10:18:13.070 24728 24728 V Activity: onCreate com.zzw.live.MainActivity@2ed5ec2: Bundle[{android:viewHierarchyState=Bundle[mParcelledData.dataSize=680], android:fragments=android.app.FragmentManagerState@cfca810}]
+11-19 10:18:13.073   654   734 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+11-19 10:18:13.074  1497 19281 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 10106
+11-19 10:18:13.075  1497  1528 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS_FULL ; uid = 10106
+11-19 10:18:13.104 16663 16670 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.109   821 24756 I mm-camera: <MCT   >< INFO> 4375: mct_pipeline_stop_session_thread: Stop module name: sensor - X
+11-19 10:18:13.109   821   821 I mm-camera: <MCT   >< INFO> 4655: mct_pipeline_stop_session: Modules left: 0
+11-19 10:18:13.109   821   821 I mm-camera: <MCT   >< INFO> 4664: mct_pipeline_stop_session: Stopped session 1 successfully
+11-19 10:18:13.109   821   821 I mm-camera: <MCT   >< INFO> 4941: mct_pipeline_destroy: E: session:1
+11-19 10:18:13.109   821   821 I mm-camera: <MCT   >< INFO> 5014: mct_pipeline_destroy: X: Pipeline destroyed successfully session =1
+11-19 10:18:13.109   821   821 I mm-camera: <MCT   >< INFO> 282: mct_controller_destroy: X Successfully closed mct_controller session 1
+11-19 10:18:13.111   586   630 I SDM     : ResourceImpl::SetMaxBandwidthMode: new bandwidth mode=0
+11-19 10:18:13.111  7034  7034 I CameraService: onTorchStatusChangedLocked: Torch status changed for cameraId=0, newStatus=1
+11-19 10:18:13.111  7034  7034 I QCamera : <HAL><INFO> int qcamera::QCamera3HardwareInterface::closeCamera(): 924: [KPI Perf]: X PROFILE_CLOSE_CAMERA camera id 0, rc: 0
+11-19 10:18:13.112  7034  7034 I QCamera : <HAL><INFO> static int qcamera::QCamera3HardwareInterface::close_camera_device(struct hw_device_t *): 10825: [KPI Perf]: X
+11-19 10:18:13.112  7034  7034 I Camera3-Device: disconnect: X
+11-19 10:18:13.112  7034  7034 I Camera3-Device: disconnect: E
+11-19 10:18:13.113  2011  2228 D FlashlightTile: onFlashlightAvailabilityChangedtrue
+11-19 10:18:13.113  2011  2228 D FlashlightTile: onFlashlightAvailabilityChangedtrue
+11-19 10:18:13.114  1497  2203 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 1047
+11-19 10:18:13.115  2011  2236 D FlashlightTile: FlashlightTile state.visible=false mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:13.115 12282 12282 D wpa_supplicant: wlan0: Control interface command 'SIGNAL_POLL'
+11-19 10:18:13.118  7034  7034 I CameraService: disconnect: Disconnected client for camera 0 for PID 24604
+11-19 10:18:13.118  7034  7034 I Camera2Client: Camera 0: Closed
+11-19 10:18:13.118  7034  7034 I Camera2ClientBase: Closed Camera 0. Client was: com.zzw.live (PID 24604, UID 10106)
+11-19 10:18:13.118  2011  2300 D FlashlightTile: FlashlightTile state.visible=false mhideMode=0 mFlashlightController.isEnabled()=false
+11-19 10:18:13.118   797 28952 D NuPlayerDriver: reset(0xe704eea0) at state 4
+11-19 10:18:13.118   797 28952 D NuPlayerDriver: notifyListener_l(0xe704eea0), (8, 0, 0), loop setting(0, 0)
+11-19 10:18:13.119   797 24648 W AMessage: failed to post message as target looper for handler 0 is gone.
+11-19 10:18:13.119   797 24648 D NuPlayerDriver: notifyResetComplete(0xe704eea0)
+11-19 10:18:13.121   797 28952 D NuPlayerDriver: reset(0xe704f0e0) at state 4
+11-19 10:18:13.121   797 28952 D NuPlayerDriver: notifyListener_l(0xe704f0e0), (8, 0, 0), loop setting(0, 0)
+11-19 10:18:13.121   797 24650 W AMessage: failed to post message as target looper for handler 0 is gone.
+11-19 10:18:13.121   797 24650 D NuPlayerDriver: notifyResetComplete(0xe704f0e0)
+11-19 10:18:13.122   797   797 D NuPlayerDriver: reset(0xe704ef60) at state 4
+11-19 10:18:13.122   797   797 D NuPlayerDriver: notifyListener_l(0xe704ef60), (8, 0, 0), loop setting(0, 0)
+11-19 10:18:13.122   797 24652 W AMessage: failed to post message as target looper for handler 0 is gone.
+11-19 10:18:13.123   797 24652 D NuPlayerDriver: notifyResetComplete(0xe704ef60)
+11-19 10:18:13.125  7034  7034 E CameraService: binderDied: Java client's binder died, removing it from the list of active clients
+11-19 10:18:13.134 12282 12282 D wpa_supplicant: CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=212992 outq=0 send_len=48
+11-19 10:18:13.147  3353  3360 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.159  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:13.159  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:13.159  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:13.159  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:13.171  1497  2204 I ActivityManager: START u0 {act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.android.packageinstaller cmp=com.android.packageinstaller/.permission.ui.GrantPermissionsActivity (has extras)} from uid 10106 on display 0
+11-19 10:18:13.171  1497  2204 I PackageManager:  checkUidPermission permName = android.permission.START_ANY_ACTIVITY ; uid = 10106
+11-19 10:18:13.172  1497  2204 I ActivityManager: isRing ==false
+11-19 10:18:13.172  1497  2204 I ActivityManager: in startActivityLocked---go on start there is not ringing incoming call or not HomeActivity. before abort==false
+11-19 10:18:13.174  1497  2204 D ActivityTrigger: ActivityTrigger activityPauseTrigger 
+11-19 10:18:13.175  1497  2204 D PowerManagerService: acquireWakeLockInternal: lock=19165590, flags=0x1, tag="*launch*", ws=WorkSource{10028}, uid=1000, pid=1497
+11-19 10:18:13.177  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.178  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.181 24728 24728 V Activity: onStart com.zzw.live.MainActivity@2ed5ec2
+11-19 10:18:13.184 24728 24728 V Activity: onResume com.zzw.live.MainActivity@2ed5ec2
+11-19 10:18:13.185 21529 21537 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.212  2591  2598 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.214 24728 24728 V Activity: onPause com.zzw.live.MainActivity@2ed5ec2 getComponentName()=ComponentInfo{com.zzw.live/com.zzw.live.MainActivity}
+11-19 10:18:13.216  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.224  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10028
+11-19 10:18:13.224  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10028
+11-19 10:18:13.226  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.227 21949 21949 V Activity: onCreate com.android.packageinstaller.permission.ui.GrantPermissionsActivity@6f220d3: null
+11-19 10:18:13.228  1497  1973 I PackageManager: uid = 10028, packageUid = 10106; callPackageName=com.android.packageinstaller
+11-19 10:18:13.241  9638  9646 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.241  1497 23903 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 10028
+11-19 10:18:13.244  1497 22533 I PackageManager:  checkUidPermission permName = android.permission.GRANT_RUNTIME_PERMISSIONS ; uid = 10028
+11-19 10:18:13.244  1497  5623 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10106
+11-19 10:18:13.245  1497  2762 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 10028
+11-19 10:18:13.246  1497  2649 I PackageManager:  checkUidPermission permName = android.permission.GRANT_RUNTIME_PERMISSIONS ; uid = 10028
+11-19 10:18:13.248  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.250  1497 30584 I PackageManager:  checkUidPermission permName = android.permission.UPDATE_APP_OPS_STATS ; uid = 10028
+11-19 10:18:13.250  1497  2352 I PackageManager:  checkUidPermission permName = android.permission.GRANT_RUNTIME_PERMISSIONS ; uid = 10028
+11-19 10:18:13.260  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.263 24728 24762 I Adreno  : QUALCOMM build                   : e7613a3, Ic9bf3e29b1
+11-19 10:18:13.263 24728 24762 I Adreno  : Build Date                       : 10/16/17
+11-19 10:18:13.263 24728 24762 I Adreno  : OpenGL ES Shader Compiler Version: XE031.09.00.04
+11-19 10:18:13.263 24728 24762 I Adreno  : Local Branch                     : 
+11-19 10:18:13.263 24728 24762 I Adreno  : Remote Branch                    : quic/gfx-adreno.lnx.1.0.r5-rel
+11-19 10:18:13.263 24728 24762 I Adreno  : Remote Branch                    : NONE
+11-19 10:18:13.263 24728 24762 I Adreno  : Reconstruct Branch               : NOTHING
+11-19 10:18:13.272  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.275 24728 24762 I OpenGLRenderer: Initialized EGL, version 1.4
+11-19 10:18:13.275 24728 24762 D OpenGLRenderer: Swap behavior 1
+11-19 10:18:13.275  1497 13361 D ActivityTrigger: ActivityTrigger activityPauseTrigger 
+11-19 10:18:13.275  1497 13361 D PowerManagerService: acquireWakeLockInternal: lock=19165590, flags=0x1, tag="*launch*", ws=WorkSource{10028}, uid=1000, pid=1497
+11-19 10:18:13.280  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.287  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.287 27046 27053 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.291  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.291  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.301 24728 24728 W art     : Before Android 4.1, method int android.support.v7.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+11-19 10:18:13.308  2858  2866 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.323  1497  2203 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:13.325  1497 21796 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 10035
+11-19 10:18:13.325  1497 21796 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:13.326  1497  2038 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:13.326  1497  2621 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS_FULL ; uid = 10035
+11-19 10:18:13.327  1497  2621 I PackageManager:  checkUidPermission permName = android.permission.REAL_GET_TASKS ; uid = 10035
+11-19 10:18:13.327  1497  2621 I PackageManager:  checkUidPermission permName = android.permission.GET_DETAILED_TASKS ; uid = 10035
+11-19 10:18:13.327  1497  2621 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.zzw.live  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.gallery3d  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.settings  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.live.greatness  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.documentsui  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.wy.mptt  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.sigma_rt.totalcontrol  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.miyi.ktuwr  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.calendar  false
+11-19 10:18:13.328  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.great.sweetcamera  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytalkpro.ocean  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.contacts  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.tips  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.google.grafika  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.appstore  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.android.settings  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.qualcomm.qti.sensors.qsensortest  false
+11-19 10:18:13.329  2011  2011 D SystemServicesProxy: whetherExcludeFromRecent  for com.hytera.networkpriority  false
+11-19 10:18:13.329  1497  2656 I PackageManager:  checkUidPermission permName = android.permission.INTERACT_ACROSS_USERS ; uid = 10035
+11-19 10:18:13.329  1497  2656 I PackageManager:  checkUidPermission permName = android.permission.MANAGE_USERS ; uid = 10035
+11-19 10:18:13.333  1497 23903 I PackageManager:  checkUidPermission permName = android.permission.WRITE_SECURE_SETTINGS ; uid = 10035
+11-19 10:18:13.336  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.337  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.339 24728 24728 V Activity: onResume com.zzw.live.MainActivity@2ed5ec2
+11-19 10:18:13.341  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.344  1497  2619 I PackageManager:  checkUidPermission permName = android.permission.STATUS_BAR ; uid = 10106
+11-19 10:18:13.344  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.346  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.354  3115  3122 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.358 21949 21949 V Activity: onDestroy com.android.packageinstaller.permission.ui.GrantPermissionsActivity@6f220d3
+11-19 10:18:13.363  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10028
+11-19 10:18:13.363  1497  1576 I PackageManager:  checkUidPermission permName = android.permission.INTERNET ; uid = 10028
+11-19 10:18:13.390 19885 19892 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.431  2605  2612 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.483  2739  2754 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.530  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.536  2011  2011 D PhoneStatusBar: hiding the MENU button
+11-19 10:18:13.587 21556 21564 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.592   654   734 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+11-19 10:18:13.677  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:13.677  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:13.677  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:13.678  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:13.707  2874  2882 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.753 25914 25921 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.789  2491  2498 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.822  2620  2628 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.854 21820 21827 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.857  2635  2635 V ThirdPartyCheckManager: send to poc, ping
+11-19 10:18:13.862  2635  2635 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:877 android.content.ContextWrapper.sendBroadcast:421 com.hytera.call.module.ThirdPartyCheckManager$1.run:73 android.os.Handler.handleCallback:751 android.os.Handler.dispatchMessage:95 
+11-19 10:18:13.906 21949 21956 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.938  2505  2512 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:13.968 21578 21586 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.002  2635  2642 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.036  8268  8275 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.070  1997  2004 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.101  3022  3031 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.131 21839 21846 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.163  2519  2526 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.192  3288  3300 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.195  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:14.195  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:14.195  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:14.195  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:14.220 23000 23007 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.248  1497  1505 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.275  2650  2659 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.302  3674  3681 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.329  2011  2019 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.362  2401  2409 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.392  3556  3567 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.420  2533  2540 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.450  3817  3825 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.482 21487 21494 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.515  3187  3194 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.542 20340 20372 I USBService: send udp to check mobileagent state.
+11-19 10:18:14.543 20340 20377 I ===Mrcp===: sending cmd:276
+11-19 10:18:14.544 20340 20500 I USBService: command is : [277] 
+11-19 10:18:14.544  2547  2554 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.544 20340 20500 I USBService: res:-131070 res2:2 opt:-2
+11-19 10:18:14.544 20340 20500 I USBService: 	 mobileagent state:-2. 
+11-19 10:18:14.545 20340 20372 I USBService: get mobileagent state 1 and current mobileagent state 1 and usb state of connection true
+11-19 10:18:14.574 20340 20347 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.604 21620 21628 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.633 20340 20369 I ===DaemonService===: ############## Rotation : 0
+11-19 10:18:14.633 20340 20369 I ===DaemonService===: ScreenOrientationThread:0 screentOrientation:0
+11-19 10:18:14.634 20340 20376 I ===APKProtocolTransmit===: Ready send su-cmd:275
+11-19 10:18:14.634 20340 20376 I ===APKProtocolTransmit===: Start send su-cmd:275 length[14]
+11-19 10:18:14.634 20340 20376 I ===APKProtocolTransmit===: Will write content:the C socket has not been connected,so dicard the send command:[275]
+11-19 10:18:14.635 21877 21886 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.639 20340 20376 I ===APKProtocolTransmit===: End send sb-cmd:275
+11-19 10:18:14.669  2680  2695 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.699 29944 29951 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.713  2011  2011 D BatteryMeterDrawable: draw level=100 tracker.plugged=false
+11-19 10:18:14.713  2011  2011 D BatteryMeterDrawable: [battery shape] mButtonFrame(24.0,4.2,26.2,12.12
+11-19 10:18:14.713  2011  2011 D BatteryMeterDrawable: [battery shape] mFrame(0.20000005,0.20000005,23.88,16.12
+11-19 10:18:14.714  2011  2011 D BatteryMeterDrawable: 111battery draw charging=true
+11-19 10:18:14.730  2175  2182 I art     : Ignoring second debugger -- accepting and dropping
+11-19 10:18:14.761  2303  2314 I art     : Ignoring second debugger -- accepting and dropping

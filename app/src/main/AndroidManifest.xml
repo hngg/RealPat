@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.gegepad.SurfaceVideo">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+
+    <!-- net -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!-- hotspot permission, just FINE_LOCATION is used for hotspot -->
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- vibrate -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- begin version O -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:name="com.gegepad.SurfaceVideo.GApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="EglRec"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.gegepad.SurfaceVideo.PermissionActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".tabfragment.menu.NormalTabActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.gegepad.SurfaceVideo.ScalingScannerActivity" android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="com.gegepad.SurfaceVideo.RecodeActivity"
+            android:theme="@style/CameraTheme" />
+
+        <activity
+            android:name="com.gegepad.SurfaceVideo.VideoRecvActivity"
+            android:theme="@style/CameraTheme" />
+
+        <activity
+            android:name="com.gegepad.SurfaceVideo.Egl14RecActivity"
+            android:theme="@style/CameraTheme" />
+
+        <service
+            android:name="com.gegepad.service.RealTimeService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter android:priority="1000">
+                <action android:name="com.lnlyj.multistream.MULTI_VIDEO" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name="com.gegepad.modtrunk.media.egl14.CameraService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter android:priority="1000">
+                <action android:name="com.lnlyj.multistream.MULTI_VIDEO" />
+            </intent-filter>
+        </service>
+
+    </application>
+
+</manifest>

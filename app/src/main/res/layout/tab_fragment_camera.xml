@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollview_service"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/gray_light_1"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/wifi_state_ll"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/activity_tool_bar_height"
+        android:background="@color/gray_light"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        >
+
+        <ImageView
+            android:id="@+id/bar_recv"
+            android:layout_width="58dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@string/app_name"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/recv"
+            android:layout_weight="0"
+            android:visibility="gone"
+            />
+        <ImageView
+            android:id="@+id/bar_send"
+            android:layout_width="58dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@string/app_name"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/send"
+            android:layout_weight="0"
+            android:visibility="gone"
+            />
+        <TextView
+            android:id="@+id/bar_status"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_weight="1"
+            />
+
+        <ImageView
+            android:id="@+id/bar_delete"
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@string/app_name"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/delete"
+            android:layout_weight="0"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp" >
+
+        <LinearLayout
+            android:id="@+id/item_create_ll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:layout_marginBottom="8dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/create_icon"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:gravity="center_vertical"
+                android:src="@drawable/users" />
+
+            <TextView
+                android:id="@+id/create_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="4dp"
+                android:singleLine="true"
+                android:text="@string/create_group"
+                android:textColor="@color/blue_powder"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/item_connect_ll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:layout_marginBottom="8dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/wise_connect_icon"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:gravity="center_vertical"
+                android:src="@drawable/operator" />
+
+            <TextView
+                android:id="@+id/wise_connect_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="4dp"
+                android:singleLine="true"
+                android:text="@string/add_user"
+                android:textColor="@color/blue_powder"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/item_camera_ll"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <ImageView
+            android:id="@+id/wise_camera_icon"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:gravity="center_vertical"
+            android:src="@drawable/camconnect" />
+
+        <TextView
+            android:id="@+id/wise_camera_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="4dp"
+            android:singleLine="true"
+            android:text="@string/take_photoes"
+            android:textColor="@color/blue_powder"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>
+

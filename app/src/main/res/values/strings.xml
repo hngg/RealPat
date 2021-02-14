@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">哥哥拍</string>
+
+    <string name="title_activity_recode">RecodeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- tab activity -->
+    <string name="create_group">建群</string>
+    <string name="add_user">连接</string>
+    <string name="take_photoes">拍照</string>
+
+    <string name="ip_addr">地址</string>
+    <string name="port_addr">端口</string>
+    <string name="file">File:</string>
+    <string name="file_addr">file</string>
+    <string name="local">Local:</string>
+    <string name="localip">local ip</string>
+    <string name="addr">Addr:</string>
+
+    <!-- camera -->
+    <string name="camera_label">Camera</string>
+
+</resources>
